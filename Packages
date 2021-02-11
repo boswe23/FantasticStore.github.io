@@ -1,0 +1,251 @@
+Package: com.fantastic.altstore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.altstore_1.0_iphoneos-arm.deb
+Size: 3087504
+MD5sum: 0557c400955816123e583c62ebb92da0
+SHA1: ceda1f5b10f8ccab3b12266f3f0c42c482981f99
+SHA256: b8e17a24b68c88949c89d5ddde6af22c7d046521ab7ab2a18596622c228acbfc
+Section: Applications
+Description: Install AltStore.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AltStore
+
+Package: com.fantastic.appcake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.appcake_1.0_iphoneos-arm.deb
+Size: 25562484
+MD5sum: cd1fead87ed58947cb3b700564885cb5
+SHA1: 2c13ed606877a77c8b03d9b14f4ec12625ecdd91
+SHA256: cc63cb8586d8dd49d9448603a5703026a02efcf607e63df65015b776c022f138
+Section: Applications
+Description: Install Appcake.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Appcake
+
+Package: com.fantastic.appinstaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.appinstaller_1.0_iphoneos-arm.deb
+Size: 574960
+MD5sum: 86d21772c9b72081e7fbd732d918ffbd
+SHA1: d10a4ee8bb024e313af33072228e6745f825bdc2
+SHA256: b115e662c0812df0938ae302a4e03ec2cbbc823227d947a4755abee79a9ffe9e
+Section: Applications
+Description: Install App Installer.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: App Installer
+
+Package: com.fantastic.appweleux
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.appweleux_1.0_iphoneos-arm.deb
+Size: 16672440
+MD5sum: 960e9c3a26e8e923480621396d227d62
+SHA1: 49c7f5f5338e733754c055c2224d590451888e13
+SHA256: 8c454a3db37e13fecbac4fef5bc9ac98df9140a3291ea2c34eef74603049010e
+Section: Applications
+Description: Install AppWeleux.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AppWeleux
+
+Package: com.fantastic.deltaalpha
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.deltaalpha_1.0_iphoneos-arm.deb
+Size: 36933896
+MD5sum: ba4de7fbcffd3094c2a5259cc9886c1a
+SHA1: 86b5896a6d38ac073fc6b7c374cd5ca539e81be5
+SHA256: 2ce58e447ec5c017878818a44d8baaff6a11e6b76f6f0623824d5e5fad78b6c7
+Section: Applications
+Description: Install Delta Alpha.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Delta Alpha
+
+Package: com.fantastic.esign
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.esign_1.0_iphoneos-arm.deb
+Size: 4299000
+MD5sum: d5ced13562a027b333163a45e69a3041
+SHA1: 2cc0eb697b88020b57bd84f23df08352b06eb6a4
+SHA256: 6e8fcfa61ced7174c4139ea9446fc16aa42460fa4d30f645c64de6fc9e034221
+Section: Applications
+Description: Install ESign.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ESign
+
+Package: com.fantastic.everycord
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.everycord_1.0_iphoneos-arm.deb
+Size: 21718482
+MD5sum: 09759b277ee596bee68cde2ab32cae11
+SHA1: 121ed510ceff50289e49fdf13c4e2a482a9f6c8d
+SHA256: b0b09998854411749696bd9cfadaf2dc132ea8a4f8788f51215fe351f6f8a79f
+Section: Applications
+Description: Install Everycord.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Everycord
+
+Package: com.fantastic.flappybird
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.flappybird_1.0_iphoneos-arm.deb
+Size: 2627492
+MD5sum: 1e69287919ddefca4ddcbffe61ca8ac0
+SHA1: fdd5019de19c06c4dde1ccfddea8c8ae6808b6fd
+SHA256: dfbd4b75b2fa120f9a632f6aac5f4fe06f417b30db47ca915be161b6d631290b
+Section: Applications
+Description: Install Flappy Bird.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Flappy Bird
+
+Package: com.fantastic.gbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.gbox_1.0_iphoneos-arm.deb
+Size: 8639404
+MD5sum: 928bb600c50404ad1260347ff0da3468
+SHA1: fd35d1cf5de625420a887620ef74d611b220ce4b
+SHA256: a86978803622fccfbc9776846403d67e51effe540ad0d62d326eb9ddfea1ccfc
+Section: Applications
+Description: Install GBox.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GBox
+
+Package: com.fantastic.ipastore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.ipastore_1.0_iphoneos-arm.deb
+Size: 26255298
+MD5sum: abe2d2af9520b737388dca545bf55bb1
+SHA1: 192535d87581c88d8d92e2b87d20f5a079d9bec6
+SHA256: a04a3a85b1f44b6985f8918954e3450c5570a6da80149610a80fc2c15aca8b07
+Section: Applications
+Description: Install iPA Store.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iPA Store
+
+Package: com.fantastic.issb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.issb_1.0_iphoneos-arm.deb
+Size: 37931198
+MD5sum: 8826621c98cac3d4c50f268b5a349965
+SHA1: 1b181ba6f94cbda0975632967a3767877d67bd1d
+SHA256: 47bc522266b0b11719eb72b8cd2bed57ef0d3829c0826f3aaac864f70df87d7f
+Section: Applications
+Description: Install iSSB.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iSSB
+
+Package: com.fantastic.nineanimator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.nineanimator_1.0_iphoneos-arm.deb
+Size: 23865640
+MD5sum: 606eeb052c74f95f427f7005d6e10da1
+SHA1: 21a1dad16c5f6876f89a2e809fc15f2a49e563da
+SHA256: 27bb769410bdc4c47454928493b25eb06194fd149138f300c75f688c7cc198fe
+Section: Applications
+Description: Install Nine Animator.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Nine Animator
+
+Package: com.fantastic.plug
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.plug_1.0_iphoneos-arm.deb
+Size: 4592750
+MD5sum: ed246d8b9be848246a6c3832f0647e51
+SHA1: 965a99d82bba404abf30597c97621c8c73e36312
+SHA256: 25599552338db649411f066dcb83750ae42a36e04e490dc98db252a77c5884ee
+Section: Applications
+Description: Install Plug.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Plug
+
+Package: com.fantastic.plugtoolbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.plugtoolbox_1.0_iphoneos-arm.deb
+Size: 15417670
+MD5sum: 6503f7b2915603ec64541717339e3901
+SHA1: 731c0ceb5046e1d098788cb073cb2265498734aa
+SHA256: 3c1b0996f5f9e9160b84d7cb10e6edc1b7006228875598af3d5cdc43dfcdc143
+Section: Applications
+Description: Install PlugToolBox.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: PlugToolBox
+
+Package: com.fantastic.reprovision
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.reprovision_1.0_iphoneos-arm.deb
+Size: 21157040
+MD5sum: cca45e9088ec74429bb7dd83d8dcac35
+SHA1: dc0bec90e09b8c2db104b66559f30e128400e73f
+SHA256: 5963bca8111587d18690c05653395d81f85819007c6650255bea243ccaae528e
+Section: Applications
+Description: Install ReProvision.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ReProvision
+
+Package: com.fantastic.tutuapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.tutuapp_1.0_iphoneos-arm.deb
+Size: 48789322
+MD5sum: 308cdc13dbd0b81535014e1f94ffd4b5
+SHA1: 699a081b4a1129cd8305bcb9fc0bc29655f36e86
+SHA256: 9170b3c8e8307b96eb93b8775b38d9bba5a771fb0bcef40123d706a9a0a90c69
+Section: Applications
+Description: Install Tutu App.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Tutu App
+
+Package: com.fantastic.tutubox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.tutubox_1.0_iphoneos-arm.deb
+Size: 6611908
+MD5sum: d0edaf36a94e73db1daf66eeeb4784a6
+SHA1: 5ea9104756212b0126e24f2b5945f1b64441972f
+SHA256: e461669d9b3c28294336690e3411c53e6c0d0f51dc8b9ede2f60a6ce94845cbe
+Section: Applications
+Description: Install Tutu Box.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Tutu box
+
+Package: com.fantastic.worlds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.worlds_1.0_iphoneos-arm.deb
+Size: 17078756
+MD5sum: 510fb452c45e5c8662ed74032f15c696
+SHA1: 4abaf0056bde2ad6c9d3ccf727f4badb0e4406e7
+SHA256: c8b27be4cb0d11ff6202447035ce92a3827d9048b0cf9693014fc6ae89812321
+Section: Applications
+Description: Install Worlds.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Worlds
