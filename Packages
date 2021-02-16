@@ -64,7 +64,7 @@ Size: 873258
 MD5sum: ba4de7fbcffd3094c2a5259cc9886c1a
 SHA1: 86b5896a6d38ac073fc6b7c374cd5ca539e81be5
 SHA256: 2ce58e447ec5c017878818a44d8baaff6a11e6b76f6f0623824d5e5fad78b6c7
-Section: Applications
+Section: Tweaks
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Altdeamon 
