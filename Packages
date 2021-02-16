@@ -55,8 +55,9 @@ Description: Install AppWeleux the newer cool 3rd party AppStores and get free +
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppWeleux
 
-Package: com.fantasticstore.altdeamon
-Version: 1.0
+Package: com.rileytestut.altdaemon
+Depends: firmware (>=12.2)
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Filename: ./debs/com.fantastic.altdeamon_1.0_iphoneos-arm.deb
@@ -64,7 +65,7 @@ Size: 873258
 MD5sum: ba4de7fbcffd3094c2a5259cc9886c1a
 SHA1: 86b5896a6d38ac073fc6b7c374cd5ca539e81be5
 SHA256: 2ce58e447ec5c017878818a44d8baaff6a11e6b76f6f0623824d5e5fad78b6c7
-Section: Applications
+Section: Tweaks
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Altdeamon 
