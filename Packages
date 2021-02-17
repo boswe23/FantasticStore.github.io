@@ -238,3 +238,36 @@ Section: Applications
 Description: Install Worlds! A minecraft mod app to import Minecraft maps free to play to MCPE! This is a good Minecraft pocket edition app!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Worlds
+
+Package: com.fantasticstore.pojavlauncher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: openjdk-16-jre
+Filename: ./debs/com.fantastic.pojavlauncher_1.0_iphoneos-arm.deb
+Size: 9379584
+MD5sum: 3642b4396932b4613df198dfa7546194
+SHA1: 437c31c28afe5fd5b28fc6ce8f4e061686fd48e2
+SHA256: e18e67437e23dda4a5f4a5b42972e9c40ebd0fd986b2cd27876acebc557dd4ac
+Section: Minecraft Java Setup
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Pojav Launcher
+
+Package: com.fantasticstore.openjdk16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.openjdk-16jre_16.0.0+git20201217.8383f41-2_1.0_iphoneos-arm.deb
+Size: 17078756 
+MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
+SHA1: 066594b2c3a6ad2a9d33bba9b1bb995d595c6cf6
+SHA256: 170cf1131d496641167cc79e696394966571ce1fc2628c755a4ca685115daa87
+Section: Minecraft Java Setup
+Description: OpenJDK Java runtime, using Hotspot JIT
+Minimal Java runtime - needed for executing non GUI Java programs,
+using Hotspot JIT.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: OpenJdk16
+
