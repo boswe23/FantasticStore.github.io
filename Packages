@@ -58,12 +58,12 @@ Description: Install AppWeleux the newer cool 3rd party AppStores and get free +
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppWeleux
 
-Package: com.rileytestut.altdeamon
-Version: 1.0
+Package: com.rileytestut.altdaemon
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Depends: firmware (>=12.2)
-Filename: ./debs/com.rileytestut.altdeamon_1.0_iphoneos-arm.deb
+Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
 Size: 873258 
 MD5sum: 1bbb0546d88a0011cf1311acc66afca4
 SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
