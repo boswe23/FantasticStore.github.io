@@ -1,0 +1,273 @@
+Package: com.fantasticstore.altstore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.altstore_1.0_iphoneos-arm.deb
+Size: 3087504
+MD5sum: 0557c400955816123e583c62ebb92da0
+SHA1: ceda1f5b10f8ccab3b12266f3f0c42c482981f99
+SHA256: b8e17a24b68c88949c89d5ddde6af22c7d046521ab7ab2a18596622c228acbfc
+Section: Applications 
+Description: Install AltStore and on-device signing features!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Altstore
+
+Package: com.fantasticstore.appcake
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.appcake_1.0_iphoneos-arm.deb
+Size: 25562484 
+MD5sum: cd1fead87ed58947cb3b700564885cb5
+SHA1: 2c13ed606877a77c8b03d9b14f4ec12625ecdd91
+SHA256: cc63cb8586d8dd49d9448603a5703026a02efcf607e63df65015b776c022f138
+Section: Applications 
+Description: Install Appcake the third party old famous Cydia AppStore!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Appcake
+
+Package: com.fantasticstore.appinstaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.appinstaller_1.0_iphoneos-arm.deb
+Size: 574960 
+MD5sum: 86d21772c9b72081e7fbd732d918ffbd
+SHA1: d10a4ee8bb024e313af33072228e6745f825bdc2
+SHA256: b115e662c0812df0938ae302a4e03ec2cbbc823227d947a4755abee79a9ffe9e
+Section: Applications 
+Description: Install App Installer and sideload apps similar to altstore.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: App Installer
+
+Package: com.fantasticstore.appweleux
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.appweleux_1.0_iphoneos-arm.deb
+Size: 16672440 
+MD5sum: 960e9c3a26e8e923480621396d227d62
+SHA1: 49c7f5f5338e733754c055c2224d590451888e13
+SHA256: 8c454a3db37e13fecbac4fef5bc9ac98df9140a3291ea2c34eef74603049010e
+Section: Applications 
+Description: Install AppWeleux the newer cool 3rd party AppStores and get free ++ Apps!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AppWeleux
+
+Package: com.rileytestut.altdaemon
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.rileytestut.altdeamon_0.1_iphoneos-arm.deb
+Size: 873258 
+MD5sum: 1bbb0546d88a0011cf1311acc66afca4
+SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
+SHA256: fbf46faaeb7a3ee3d9d6c1071394a12bb0ccb1832213440ce5c5a9347c9950b6
+Section: Tweaks
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Altdeamon 
+
+Package: com.fantasticstore.esign
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.esign_1.0_iphoneos-arm.deb
+Size: 4299000 
+MD5sum: d5ced13562a027b333163a45e69a3041
+SHA1: 2cc0eb697b88020b57bd84f23df08352b06eb6a4
+SHA256: 6e8fcfa61ced7174c4139ea9446fc16aa42460fa4d30f645c64de6fc9e034221
+Section: Applications 
+Description: Install ESign and install iPas directly to your iOS device home screen!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ESign
+
+Package: com.fantasticstore.everycord
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.everycord_1.0_iphoneos-arm.deb
+Size: 21718482 
+MD5sum: 09759b277ee596bee68cde2ab32cae11
+SHA1: 121ed510ceff50289e49fdf13c4e2a482a9f6c8d
+SHA256: b0b09998854411749696bd9cfadaf2dc132ea8a4f8788f51215fe351f6f8a79f
+Section: Applications 
+Description: Install Everycord a awesome screen recorder for your iOS gameplay and YouTube videos!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Everycord 
+
+Package: com.fantasticstore.flappybird
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.flappybird_1.0_iphoneos-arm.deb
+Size: 2627492 
+MD5sum: 1e69287919ddefca4ddcbffe61ca8ac0
+SHA1: fdd5019de19c06c4dde1ccfddea8c8ae6808b6fd
+SHA256: dfbd4b75b2fa120f9a632f6aac5f4fe06f417b30db47ca915be161b6d631290b
+Section: Applications 
+Description: Install Flappy Bird made by Brandon Plank! Enjoy the clone of the original flappy bird game that is rare now days!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Flappy Bird
+
+Package: com.fantasticstore.gbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.gbox_1.0_iphoneos-arm.deb
+Size: 8639404 
+MD5sum: 928bb600c50404ad1260347ff0da3468
+SHA1: fd35d1cf5de625420a887620ef74d611b220ce4b
+SHA256: a86978803622fccfbc9776846403d67e51effe540ad0d62d326eb9ddfea1ccfc
+Section: Applications 
+Description: Install GBox and sideload apps and install iPas to your iOS home screen!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GBox
+
+Package: com.fantasticstore.issb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.issb_1.0_iphoneos-arm.deb
+Size: 37931198 
+MD5sum: 8826621c98cac3d4c50f268b5a349965
+SHA1: 1b181ba6f94cbda0975632967a3767877d67bd1d
+SHA256: 47bc522266b0b11719eb72b8cd2bed57ef0d3829c0826f3aaac864f70df87d7f
+Section: Applications 
+Description: Install iSSB a old super smash bro's emulator for your iOS device!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iSSB
+
+Package: com.fantasticstore.nineanimator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.nineanimator_1.0_iphoneos-arm.deb
+Size: 23865640 
+MD5sum: 606eeb052c74f95f427f7005d6e10da1
+SHA1: 21a1dad16c5f6876f89a2e809fc15f2a49e563da
+SHA256: 27bb769410bdc4c47454928493b25eb06194fd149138f300c75f688c7cc198fe
+Section: Applications 
+Description: Install Nine Animator and watch free anime or read free anime no longer on Apple's AppStore!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Nine Animator
+
+Package: com.fantasticstore.plug
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.plug_1.0_iphoneos-arm.deb
+Size: 4592750 
+MD5sum: ed246d8b9be848246a6c3832f0647e51
+SHA1: 965a99d82bba404abf30597c97621c8c73e36312
+SHA256: 25599552338db649411f066dcb83750ae42a36e04e490dc98db252a77c5884ee
+Section: Applications 
+Description: Install Plug and modify your Minecraft pocket edition gameplay! A toolbox for Minecraft Pocket edition!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Plug
+
+Package: com.fantasticstore.plugtoolbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.plugtoolbox_1.0_iphoneos-arm.deb
+Size: 15417670 
+MD5sum: 6503f7b2915603ec64541717339e3901
+SHA1: 731c0ceb5046e1d098788cb073cb2265498734aa
+SHA256: 3c1b0996f5f9e9160b84d7cb10e6edc1b7006228875598af3d5cdc43dfcdc143
+Section: Applications 
+Description: Install PlugToolBox and then you can edit your Minecraft worlds and add some mod plugins to the game!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: PlugToolBox
+
+Package: com.fantasticstore.reprovision
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.reprovision_1.0_iphoneos-arm.deb
+Size: 21157040 
+MD5sum: cca45e9088ec74429bb7dd83d8dcac35
+SHA1: dc0bec90e09b8c2db104b66559f30e128400e73f
+SHA256: 5963bca8111587d18690c05653395d81f85819007c6650255bea243ccaae528e
+Section: Applications 
+Description: Install ReProvision! The best alternative to altstore for Jailbroken iOS devices! 
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ReProvision
+
+Package: com.fantasticstore.tutubox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.tutubox_1.0_iphoneos-arm.deb
+Size: 6611908 
+MD5sum: d0edaf36a94e73db1daf66eeeb4784a6
+SHA1: 5ea9104756212b0126e24f2b5945f1b64441972f
+SHA256: e461669d9b3c28294336690e3411c53e6c0d0f51dc8b9ede2f60a6ce94845cbe
+Section: Applications 
+Description: Install Tutu Box! A newer 3rd party AppStore! Made By Brandon Plank! Premium Apps Free!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Tutu box
+
+
+Package: com.fantasticstore.worlds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.worlds_1.0_iphoneos-arm.deb
+Size: 17078756 Bytes
+MD5sum: 510fb452c45e5c8662ed74032f15c696
+SHA1: 4abaf0056bde2ad6c9d3ccf727f4badb0e4406e7
+SHA256: c8b27be4cb0d11ff6202447035ce92a3827d9048b0cf9693014fc6ae89812321
+Section: Applications 
+Description: Install Worlds! A minecraft mod app to import Minecraft maps free to play to MCPE! This is a good Minecraft pocket edition app!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Worlds
+
+Package: com.fantasticstore.pojavlauncher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: openjdk-16-jre
+Filename: ./debs/com.fantastic.pojavlauncher_1.0_iphoneos-arm.deb
+Size: 9379584
+MD5sum: 3642b4396932b4613df198dfa7546194
+SHA1: 437c31c28afe5fd5b28fc6ce8f4e061686fd48e2
+SHA256: e18e67437e23dda4a5f4a5b42972e9c40ebd0fd986b2cd27876acebc557dd4ac
+Section: Minecraft Java Setup
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Pojav Launcher
+
+Package: com.fantasticstore.openjdk16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=12.2)
+Filename: ./debs/com.fantastic.openjdk-16jre_16.0.0+git20201217.8383f41-2_1.0_iphoneos-arm.deb
+Size: 17078756 
+MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
+SHA1: 066594b2c3a6ad2a9d33bba9b1bb995d595c6cf6
+SHA256: 170cf1131d496641167cc79e696394966571ce1fc2628c755a4ca685115daa87
+Section: Minecraft Java Setup
+Description: OpenJDK Java runtime, using Hotspot JIT
+Minimal Java runtime - needed for executing non GUI Java programs,
+using Hotspot JIT.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: OpenJdk16
+
