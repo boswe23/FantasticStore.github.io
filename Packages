@@ -229,19 +229,3 @@ Section: Applications
 Description:  A new anime app to watch free anime apps! No longer on the appstore!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AnimeFever
-
-Package: com.fantasticstore.attractiveplaces
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantastic.attractiveplaces_1.0_iphoneos-arm.deb
-Size: 840 
-MD5sum: 6d34f85af5ae1ce60c100f49fc6a1815
-SHA1: a58fab4545f432a248229a102cd1afc46ad97aee
-SHA256: 5210d90259f27a9018f24a34e4a1831ed98c93116c21a6690482d1c0475b2a8e
-Section: Applications 
-Description: Movieboxpro hidden inside this app! just install with cydia or sileo , then sign in with google drive then boom enjoy!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Attractive Places
-
-
