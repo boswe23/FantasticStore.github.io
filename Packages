@@ -152,7 +152,7 @@ Description: Install Worlds! A minecraft mod app to import Minecraft maps free t
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Worlds
 
-Package: com.rileytestut.altdaemon
+Package: com.fantasticstore.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -162,7 +162,7 @@ Size: 873258
 MD5sum: 1bbb0546d88a0011cf1311acc66afca4
 SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
 SHA256: fbf46faaeb7a3ee3d9d6c1071394a12bb0ccb1832213440ce5c5a9347c9950b6
-Section: System
+Section: Tweaks
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltDaemon
