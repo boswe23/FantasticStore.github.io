@@ -54,20 +54,6 @@ Description: Install AppWeleux the newer cool 3rd party AppStores and get free +
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppWeleux
 
-Package: com.fantastic.esign
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: debs/com.fantastic.esign_1.0_iphoneos-arm 3.deb
-Size: 4299000
-MD5sum: d5ced13562a027b333163a45e69a3041
-SHA1: 2cc0eb697b88020b57bd84f23df08352b06eb6a4
-SHA256: 6e8fcfa61ced7174c4139ea9446fc16aa42460fa4d30f645c64de6fc9e034221
-Section: Applications
-Description: Install ESign and install iPas directly to your iOS device home screen!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: ESign
-
 Package: com.fantastic.everycord
 Version: 1.0
 Architecture: iphoneos-arm
@@ -81,34 +67,6 @@ Section: Applications
 Description: Install Everycord a awesome screen recorder for your iOS gameplay and YouTube videos!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Everycord
-
-Package: com.fantastic.flappybird
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: debs/com.fantastic.flappybird_1.0_iphoneos-arm 3.deb
-Size: 2627492
-MD5sum: 1e69287919ddefca4ddcbffe61ca8ac0
-SHA1: fdd5019de19c06c4dde1ccfddea8c8ae6808b6fd
-SHA256: dfbd4b75b2fa120f9a632f6aac5f4fe06f417b30db47ca915be161b6d631290b
-Section: Applications
-Description: Install Flappy Bird made by Brandon Plank! Enjoy the clone of the original flappy bird game that is rare now days!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Flappy Bird
-
-Package: com.fantastic.gbox
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: debs/com.fantastic.gbox_1.0_iphoneos-arm 3.deb
-Size: 8639404
-MD5sum: 928bb600c50404ad1260347ff0da3468
-SHA1: fd35d1cf5de625420a887620ef74d611b220ce4b
-SHA256: a86978803622fccfbc9776846403d67e51effe540ad0d62d326eb9ddfea1ccfc
-Section: Applications
-Description: Install GBox and sideload apps and install iPas to your iOS home screen!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: GBox
 
 Package: com.fantastic.nineanimator
 Version: 1.0
@@ -258,3 +216,18 @@ Section: Applications
 Description: Install iSSB a old super smash bro's emulator for your iOS device!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: iSSB
+
+Package: com.fantasticstore.animefever
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.animefever_1.0_iphoneos-arm.deb
+Size: 15308864 
+MD5sum: 1823e087836a18ca710e35c691631d44
+SHA1: 443d5ec3352e4b08c3bdd480adc2db2c07984eaf
+SHA256: daa41acf50dad8e58ecc68d5e33c01eced22836baf660e6da1ab32535b0434e0
+Section: Applications 
+Description:  A new anime app to watch free anime apps! No longer on the appstore!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AnimeFever
+
