@@ -230,7 +230,7 @@ Description:  A new anime app to watch free anime apps! No longer on the appstor
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AnimeFever
 
-Package: com.fantasticstore.postbox
+Package: com.fantasticstore.PostBox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
