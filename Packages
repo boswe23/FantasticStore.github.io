@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.appweleux_1.0_iphoneos-arm.deb
-Size: 16672440 
+Size: 166724
 MD5sum: 960e9c3a26e8e923480621396d227d62
 SHA1: 49c7f5f5338e733754c055c2224d590451888e13
 SHA256: 8c454a3db37e13fecbac4fef5bc9ac98df9140a3291ea2c34eef74603049010e
