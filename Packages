@@ -234,7 +234,7 @@ Package: com.fantasticstore.postbox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantastic.postbox_1.0_iphoneos-arm.deb
+Filename: ./debs/com.fantasticstore.PostBox
 Size: 7280040 
 MD5sum: 532cd73f8145e9d12ae17dc7070bd628
 SHA1: aa4af90a1a6095eb6bad579f249c5e5ae1b583ad
