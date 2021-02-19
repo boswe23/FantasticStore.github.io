@@ -1,4 +1,4 @@
-Package: com.fantastic.altstore
+Package: com.fantasticstore.altstore
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -12,7 +12,7 @@ Description: Install AltStore and on-device signing features!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltStore
 
-Package: com.fantastic.appcake
+Package: com.fantasticstore.appcake
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -26,7 +26,7 @@ Description: Install Appcake the third party old famous Cydia AppStore!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Appcake
 
-Package: com.fantastic.appinstaller
+Package: com.fantasticstore.appinstaller
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -40,7 +40,7 @@ Description: Install App Installer and sideload apps similar to altstore.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: App Installer
 
-Package: com.fantastic.appweleux
+Package: com.fantasticstore.appweleux
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -54,7 +54,7 @@ Description: Install AppWeleux the newer cool 3rd party AppStores and get free +
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppWeleux
 
-Package: com.fantastic.everycord
+Package: com.fantasticstore.everycord
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -68,7 +68,7 @@ Description: Install Everycord a awesome screen recorder for your iOS gameplay a
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Everycord
 
-Package: com.fantastic.nineanimator
+Package: com.fantasticstore.nineanimator
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -82,7 +82,7 @@ Description: Install Nine Animator and watch free anime or read free anime no lo
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Nine Animator
 
-Package: com.fantastic.plug
+Package: com.fantasticstore.plug
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -96,7 +96,7 @@ Description: Install Plug and modify your Minecraft pocket edition gameplay! A t
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Plug
 
-Package: com.fantastic.plugtoolbox
+Package: com.fantasticstore.plugtoolbox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -110,7 +110,7 @@ Description: Install PlugToolBox and then you can edit your Minecraft worlds and
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: PlugToolBox
 
-Package: com.fantastic.reprovision
+Package: com.fantasticstore.reprovision
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -124,7 +124,7 @@ Description: Install ReProvision! The best alternative to altstore for Jailbroke
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ReProvision
 
-Package: com.fantastic.tutubox
+Package: com.fantasticstore.tutubox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -138,7 +138,7 @@ Description: Install Tutu Box! A newer 3rd party AppStore! Made By Brandon Plank
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Tutu box
 
-Package: com.fantastic.worlds
+Package: com.fantasticstore.worlds
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -156,7 +156,6 @@ Package: com.fantasticstore.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
 Size: 873258
 MD5sum: 1bbb0546d88a0011cf1311acc66afca4
@@ -167,7 +166,7 @@ Description: AltDaemon allows AltStore to install and refresh apps without a com
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltDaemon
 
-Package: openjdk-16-jre
+Package: com.fantasticstore.openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -186,7 +185,7 @@ Description: OpenJDK Java runtime, using Hotspot JIT
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Openjdk16 
 
-Package: pojavlauncher
+Package: com.fantasticstore.pojavlauncher
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
@@ -230,4 +229,19 @@ Section: Applications
 Description:  A new anime app to watch free anime apps! No longer on the appstore!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AnimeFever
+
+Package: com.fantasticstore.attractiveplaces
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.attractiveplaces_1.0_iphoneos-arm.deb
+Size: 840 
+MD5sum: 6d34f85af5ae1ce60c100f49fc6a1815
+SHA1: a58fab4545f432a248229a102cd1afc46ad97aee
+SHA256: 5210d90259f27a9018f24a34e4a1831ed98c93116c21a6690482d1c0475b2a8e
+Section: Applications 
+Description: Movieboxpro hidden inside this app! just install with cydia or sileo , then sign in with google drive then boom enjoy!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Attractive Places
+
 
