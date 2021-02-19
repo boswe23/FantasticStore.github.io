@@ -229,3 +229,17 @@ Section: Applications
 Description:  A new anime app to watch free anime apps! No longer on the appstore!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AnimeFever
+
+Package: com.fantasticstore.postbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantastic.postbox_1.0_iphoneos-arm.deb
+Size: 7280040 
+MD5sum: 532cd73f8145e9d12ae17dc7070bd628
+SHA1: aa4af90a1a6095eb6bad579f249c5e5ae1b583ad
+SHA256: 1a287c2bc94951f1344cd3ed3343a0cb9332e2dce9560c13119babb6740bad20
+Section: Applications 
+Description: Postbox is a awesome alternative to RepoFinder! Postbox is a good app to find jailbreak news and find new latest cydia or sileo repos!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: PostBox
