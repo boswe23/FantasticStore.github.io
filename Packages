@@ -2,7 +2,6 @@ Package: com.fantasticstore.altstore
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.altstore_1.0_iphoneos-arm.deb
 Size: 3087504
 MD5sum: 0557c400955816123e583c62ebb92da0
@@ -17,7 +16,6 @@ Package: com.fantasticstore.appcake
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.appcake_1.0_iphoneos-arm.deb
 Size: 25562484 
 MD5sum: cd1fead87ed58947cb3b700564885cb5
@@ -32,7 +30,6 @@ Package: com.fantasticstore.appinstaller
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.appinstaller_1.0_iphoneos-arm.deb
 Size: 574960 
 MD5sum: 86d21772c9b72081e7fbd732d918ffbd
@@ -47,9 +44,8 @@ Package: com.fantasticstore.appweleux
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.appweleux_1.0_iphoneos-arm.deb
-Size: 166724
+Size: 16672440 
 MD5sum: 960e9c3a26e8e923480621396d227d62
 SHA1: 49c7f5f5338e733754c055c2224d590451888e13
 SHA256: 8c454a3db37e13fecbac4fef5bc9ac98df9140a3291ea2c34eef74603049010e
@@ -62,7 +58,6 @@ Package: com.rileytestut.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
 Size: 873258 
 MD5sum: 1bbb0546d88a0011cf1311acc66afca4
@@ -77,7 +72,6 @@ Package: com.fantasticstore.esign
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.esign_1.0_iphoneos-arm.deb
 Size: 4299000 
 MD5sum: d5ced13562a027b333163a45e69a3041
@@ -92,7 +86,6 @@ Package: com.fantasticstore.everycord
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.everycord_1.0_iphoneos-arm.deb
 Size: 21718482 
 MD5sum: 09759b277ee596bee68cde2ab32cae11
@@ -107,7 +100,6 @@ Package: com.fantasticstore.flappybird
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.flappybird_1.0_iphoneos-arm.deb
 Size: 2627492 
 MD5sum: 1e69287919ddefca4ddcbffe61ca8ac0
@@ -122,7 +114,6 @@ Package: com.fantasticstore.gbox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.gbox_1.0_iphoneos-arm.deb
 Size: 8639404 
 MD5sum: 928bb600c50404ad1260347ff0da3468
@@ -137,7 +128,6 @@ Package: com.fantasticstore.issb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.issb_1.0_iphoneos-arm.deb
 Size: 37931198 
 MD5sum: 8826621c98cac3d4c50f268b5a349965
@@ -152,7 +142,6 @@ Package: com.fantasticstore.nineanimator
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.nineanimator_1.0_iphoneos-arm.deb
 Size: 23865640 
 MD5sum: 606eeb052c74f95f427f7005d6e10da1
@@ -167,7 +156,6 @@ Package: com.fantasticstore.plug
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.plug_1.0_iphoneos-arm.deb
 Size: 4592750 
 MD5sum: ed246d8b9be848246a6c3832f0647e51
@@ -182,7 +170,6 @@ Package: com.fantasticstore.plugtoolbox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.plugtoolbox_1.0_iphoneos-arm.deb
 Size: 15417670 
 MD5sum: 6503f7b2915603ec64541717339e3901
@@ -197,7 +184,6 @@ Package: com.fantasticstore.reprovision
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.reprovision_1.0_iphoneos-arm.deb
 Size: 21157040 
 MD5sum: cca45e9088ec74429bb7dd83d8dcac35
@@ -212,7 +198,6 @@ Package: com.fantasticstore.tutubox
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.tutubox_1.0_iphoneos-arm.deb
 Size: 6611908 
 MD5sum: d0edaf36a94e73db1daf66eeeb4784a6
@@ -228,9 +213,8 @@ Package: com.fantasticstore.worlds
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.worlds_1.0_iphoneos-arm.deb
-Size: 17078756 Bytes
+Size: 17078756 
 MD5sum: 510fb452c45e5c8662ed74032f15c696
 SHA1: 4abaf0056bde2ad6c9d3ccf727f4badb0e4406e7
 SHA256: c8b27be4cb0d11ff6202447035ce92a3827d9048b0cf9693014fc6ae89812321
@@ -258,7 +242,6 @@ Package: com.fantasticstore.openjdk16
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Depends: firmware (>=12.2)
 Filename: ./debs/com.fantastic.openjdk-16jre_16.0.0+git20201217.8383f41-2_1.0_iphoneos-arm.deb
 Size: 17078756 
 MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
