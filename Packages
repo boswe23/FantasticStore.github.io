@@ -243,3 +243,17 @@ Section: Applications
 Description: Postbox is a awesome alternative to RepoFinder! Postbox is a good app to find jailbreak news and find new latest cydia or sileo repos! Latest PostBox Link: https://getpostbox.now.sh/
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: PostBox
+
+Package: com.fantasticstore.itorrent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.itorrent_1.0_iphoneos-arm.deb
+Size: 14752252 
+MD5sum: a8b28a6e8f061e680122617cc5b6b997
+SHA1: c83e52e41a1b5ec80b0131211d54fa37d584d140
+SHA256: 4df21908c79d86d8ecabfb46409bf555a8919668bac0ec861d4009d117aff239
+Section: Applications 
+Description: Download files over the iternet! Download and get torrent files on your ios jailbroken device!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iTorrent
