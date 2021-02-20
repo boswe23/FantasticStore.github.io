@@ -257,3 +257,17 @@ Section: Applications
 Description: Download files over the iternet! Download and get torrent files on your ios jailbroken device!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: iTorrent
+
+Package: com.fantasticstore.moviebox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.moviebox_1.0_iphoneos-arm.deb
+Size: 32822896 
+MD5sum: 54033a3ad55f4e41f3106ffcb2973f13
+SHA1: f88c1a1ae7f09f05904ecf0f81d81606d28330b0
+SHA256: 3378a135f2b74570e1a2cf1886033bd6b78cca9f86fee0889d39b79f0a532b7c
+Section: Applications 
+Description: Use the original movieboxpro app right here! Keep this cydia Repo to use movieboxpro! Watch free movies!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: MovieBox
