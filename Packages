@@ -271,3 +271,17 @@ Section: Applications
 Description: Use the original movieboxpro app right here! Keep this cydia Repo to use movieboxpro! Watch free movies!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: MovieBox
+
+Package: com.rullinoiz.ipa2deb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.rullinoiz.ipa2deb_1.0_iphoneos-arm.deb
+Size: 3376 
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Tweaks
+Description: Convert .IPA files to .Deb files over NewTerm or Mterminal! Credit Rullinoiz for making this awesome Tweak! 
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: IPA2DEB
