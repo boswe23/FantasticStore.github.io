@@ -283,5 +283,6 @@ SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Tweaks
 Description: Convert .IPA files to .Deb files over NewTerm or Mterminal! Credit Rullinoiz for making this awesome Tweak! 
+Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: IPA2DEB
+Name: ipa2deb
