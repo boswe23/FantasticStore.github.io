@@ -104,3 +104,17 @@ Description: Convert .IPA files to .Deb files over NewTerm or Mterminal! Credit 
 Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ipa2deb
+
+Package: com.fantasticstore.geononce12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.geononce12_1.0_iphoneos-arm.deb
+Size: 1388234 
+MD5sum: ce6f89af7e012feb667c700fef855644
+SHA1: 94707e3294e08e174bfe927d55294d2d703ecdd0
+SHA256: 6f2d20980ff48aff4e9c135c15fc9e261f07a6bb5ead6ebc7e88a68ed9bd34ac
+Section: Applications 
+Description: Nonce Setter for iOS 12.1.3 -> 12.2 pre-A12!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GeoNonce12
