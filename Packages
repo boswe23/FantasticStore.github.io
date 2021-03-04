@@ -132,3 +132,17 @@ Section: Applications
 Description: Install ipas directly to your ios devices.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppInstaller
+
+Package: com.fantasticstore.dtathemes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.dtathemes_1.0_iphoneos-arm.deb
+Size: 987368 
+MD5sum: aa13a0b130398c43c63d23646b7f2a33
+SHA1: a893f69f747b5c0c8918dad063ff2b09940706c6
+SHA256: 97e5c2a4072910d29964bac48d13838f7647d427842a92d8482a2e33d860876c
+Section: Applications 
+Description: dtathemes is a Epic Resource For Jailbreakers!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Dtathemes
