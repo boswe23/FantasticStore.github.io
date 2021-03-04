@@ -146,3 +146,17 @@ Section: Applications
 Description: dtathemes is a Epic Resource For Jailbreakers!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Dtathemes
+
+Package: com.fantasticstore.itransmission
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.itransmission_1.0_iphoneos-arm.deb
+Size: 2788954 
+MD5sum: 5a3e5db3e6ae06ff60ed605420be3307
+SHA1: 91d1ae3842358b75a87208734c88442e937ccb2a
+SHA256: 4ed608e5628dcec42b5dfcef02b639b0bbbb79bee468b98e432c003ae71e8ede
+Section: Applications 
+Description: Download torrent files on your iOS devices!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Itransmission
