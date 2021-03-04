@@ -160,3 +160,17 @@ Section: Applications
 Description: Download torrent files on your iOS devices!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Itransmission
+
+Package: com.fantasticstore.spotify++
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.spotify++_1.0_iphoneos-arm.deb
+Size: 36236356 
+MD5sum: c0f998f230bd7e834a801365827fed78
+SHA1: 37c5d2f222612a3e488fba2120181f2c8a190a14
+SHA256: 584f2f78015a1ec3b2f0bf901a88ad8811579bb11fb4f57d7bf0f091abe512b9
+Section: Applications 
+Description: No Ads, Seeking Enabled, No Forced Shuffle, Unlimited Skips!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Spotify++
