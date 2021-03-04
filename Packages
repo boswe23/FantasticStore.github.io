@@ -174,17 +174,3 @@ Section: Applications
 Description: No Ads, Seeking Enabled, No Forced Shuffle, Unlimited Skips!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Spotify++
-
-Package: com.fantasticstore.detector
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.detector_1.0_iphoneos-arm.deb
-Size: 98335114  
-MD5sum: bd2d32940026f0fbdff5f04022cadbbd
-SHA1: 898bfcd6cfd8bef6f4294ece86a3a4cce550dae3
-SHA256: 0d4a6c110c6e58f8afe9ea7f78d34d71f1f5b24c651d70e59118bdfa5cc3606f
-Section: Applications 
-Description: Detector is a simple Tool created for iOS! Helps let you know if your jailbroken or not!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Dectector
