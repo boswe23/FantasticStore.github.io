@@ -188,3 +188,33 @@ Section: Applications
 Description: App for watching free movies and more! ++ Version!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ZiniTevi
+
+Package: com.fantasticstore.liberios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.liberios_1.0_iphoneos-arm.deb
+Size: 8289030 
+MD5sum: 57ab5fe53fe6ed1bf16008f8c7b2d1b3
+SHA1: 2863264addc3123104ddf1fe36a9e9b8a51c4668
+SHA256: 1aa2efc5984640cf6f0143181f83ab3123ca727136066db529cc8fe533850265
+Section: Applications 
+Description: LiberiOS was a older jailbreak for iOS devices and one of the first ones for iOS devices!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: LiberiOS
+
+Package: com.fantasticstore.unc0vermulti
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.unc0vermulti_1.0_iphoneos-arm.deb
+Size: 22708636 
+MD5sum: f6e2015c21b07c12e8eddb8504085073
+SHA1: 02487c722f058d65d276a31a30d528a2254ade11
+SHA256: 3ae64b29433e0f52e522cd43693653697c4a7b9a2f709880502c0e29a3db55da
+Section: Applications 
+Description: A newer jailbreak for ios 12/13/14!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Unc0verMulti
+
+
