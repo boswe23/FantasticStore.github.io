@@ -1,16 +1,17 @@
-Package: com.fantasticstore.altstore
+Package: com.rileytestut.altstore.alpha.jailbroken
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: debs/com.fantastic.altstore_1.0_iphoneos-arm.deb
-Size: 3087504
-MD5sum: 0557c400955816123e583c62ebb92da0
-SHA1: ceda1f5b10f8ccab3b12266f3f0c42c482981f99
-SHA256: b8e17a24b68c88949c89d5ddde6af22c7d046521ab7ab2a18596622c228acbfc
-Section: Applications
+Depends: firmware (>=12.2)
+Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_1.0_iphoneos-arm.deb
+Size: 3124474 
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Section: Tweaks 
 Description: Install AltStore and on-device signing features!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: AltStore
+Name: Altstore
 
 Package: com.fantasticstore.openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
