@@ -217,4 +217,21 @@ Description: A newer jailbreak for ios 12/13/14!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Unc0verMulti
 
+Package: com.rileytestut.altdaemon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.rileytestut.altdaemon_1.0_iphoneos-arm.deb
+Size: 597692 
+MD5sum: e38816aff6d3c41df92b08d9b25ef0b2
+SHA1: e35a661ff835ea38d3430cae69d99aee680e650c
+SHA256: a31eea05fd812fec05e2682a03ff2800befd3994d2de695291b9e4589976f6f5
+Section: Tweaks
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/
+Name: AltDaemon
+Depiction: https://repo.kenhtao.net/view/5964
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 
