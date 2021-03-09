@@ -3,7 +3,7 @@ Version: 1.4a1
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Depends: firmware (>=8)
-Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_ 1.4a1_iphoneos-arm.deb
+Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_1.4a1_iphoneos-arm.deb
 Size: 2522844 
 MD5sum: be42cbd40bea6069cec4799b9d1a2c89
 SHA1: 0dcc9817fd819cfbd4ef2e152aa7700f5bbc5e2b
@@ -11,6 +11,7 @@ SHA256: 18385fd64d96d2c54e1197da810e61380d880b2412f2bc072be6395a5276283f
 Section: Tweaks 
 Description: Jailbroken version of AltStore with on device signing feature.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depiction: http://repo.ipodhacks142.com/descriptions/altstore-jailbroken.html
 Name: AltStore
 
 Package: com.fantasticstore.openjdk-16-jre
