@@ -1,17 +1,17 @@
 Package: com.rileytestut.altstore.alpha.jailbroken
-Version: 1.4a4
+Version: 1.4a1
 Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Depends: firmware (>=12.2) 
-Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_1.0_iphoneos-arm.deb
-Size: 3124474 
-MD5sum: e9824193c0d561e1617a70fb0529dc4a
-SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
-SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Depends: firmware (>=8)
+Filename: ./debs/com.rileytestut.altstore.alpha.jailbroken_ 1.4a1_iphoneos-arm.deb
+Size: 2522844 
+MD5sum: be42cbd40bea6069cec4799b9d1a2c89
+SHA1: 0dcc9817fd819cfbd4ef2e152aa7700f5bbc5e2b
+SHA256: 18385fd64d96d2c54e1197da810e61380d880b2412f2bc072be6395a5276283f
 Section: Tweaks 
 Description: Jailbroken version of AltStore with on device signing feature.
-Author: Riley Testut - T7Y
-Name: AltStore (ALPHA)
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AltStore
 
 Package: com.fantasticstore.openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
