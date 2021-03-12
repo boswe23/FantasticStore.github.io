@@ -233,5 +233,22 @@ Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 Description: Convert .IPA files to .Deb files over NewTerm or Mterminal! Credit Rullinoiz for making this awesome Tweak! 
 Author: JailbreakNews4U <Imsorrydaddy
 
+Package: com.fantasticstore.autotouchpremium++
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.autotouchpremium++_1.0_iphoneos-arm.deb
+Size: 4358 
+MD5sum: 822ebc07a777921aafe5a7782498fb09
+SHA1: 5be5303cfd03b720e527dc5a34e5e7e80b5b1a09
+SHA256: d9be1a0b25c6ef604a9fe729008c1af3d66380a121251a0760b3bea47571ef1b
+Section: Tweaks
+Description: AutoTouch Cracked Premium ++, Use AutoTouch free no price at all to buy scripts , all scripts are free! Working so grab them! Make sure to install Auto Touch version 6.1.2 by kent kraz!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AutoTouch Premium ++
+Version: 1.0-1+debug
+Installed-Size: 108
+
+
 
 
