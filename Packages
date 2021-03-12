@@ -248,4 +248,30 @@ Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AutoTouch Premium ++
 Installed-Size: 108
 
+Name: AutoTouch
+Package: me.autotouch.autotouch.ios8
+Priority: optional
+Filename: ./debs/me.autotouch.autotouch.ios8_6.1.2_iphoneos-arm.deb
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Version: 6.1.2
+Size: 24541030 
+MD5sum: 848cb1a98304104fba7d1ed79b64c377
+SHA1: 80ca47cbb618b07818b6e527a565b73f0fcc9c0c
+SHA256:  75eab486f964de7d8a4624149713734291f7cbd7507b074f4eea58dc0857a227
+Architecture: iphoneos-arm
+Description: Record and playback touch operations, play macro scripts automatically.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10,
+compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 109622
+dev: kentkrantz
+Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
+
+
 
