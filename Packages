@@ -17,7 +17,7 @@ Maintainer: DuyKhanhTran
 Architecture: iphoneos-arm
 Version: 1.1
 Depends: openjdk-16-jre
-Filename: ./debs/com.pojavlauncher_1.1_iphoneos-arm.deb
+Filename: ./debs/com.pojavlauncher_iphoneos-arm.deb
 Size: 9381088 
 MD5sum: 6c457576813906dd5ae5eb2d697c5791
 SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
