@@ -12,12 +12,12 @@ Description: Install Altstore but make sure you include Altdeamon for this to wo
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltStore
 
-Package: pojavlauncher
+Package: com.pojavlauncher_1.1_iphoneos-arm.deb
 Maintainer: DuyKhanhTran
 Architecture: iphoneos-arm
 Version: 1.1
 Depends: openjdk-16-jre
-Filename: ./debs/com.pojavlauncher_iphoneos-arm.deb
+Filename: ./debs/com.pojavlauncher_1.1_iphoneos-arm.deb
 Size: 9381088 
 MD5sum: 6c457576813906dd5ae5eb2d697c5791
 SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
@@ -29,7 +29,7 @@ Description: Minecraft, Java Edition launcher for iOS, based on PojavLauncher An
 Author: DuyKhanhTran
 Name: Pojav Launcher
 
-Package: openjdk-16-jre
+Package: com.openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
 Version: 16.0.0+git20201217.8383f41-2
 Architecture: iphoneos-arm
 Maintainer: Hayden Seay <me@diatr.us>
