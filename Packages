@@ -12,12 +12,12 @@ Description: Install Altstore but make sure you include Altdeamon for this to wo
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltStore
 
-Package: com.fantasticstore.pojavlauncher
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Package: pojavlauncher
+Maintainer: DuyKhanhTran
 Architecture: iphoneos-arm
 Version: 1.1
 Depends: openjdk-16-jre
-Filename: ./debs/com.fantasticstore.pojavlauncher_iphoneos-arm.deb
+Filename: ./debs/com.pojavlauncher_iphoneos-arm.deb
 Size: 9381088 
 MD5sum: 6c457576813906dd5ae5eb2d697c5791
 SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
@@ -26,14 +26,14 @@ Section: Minecraft Java Setup
 Priority: optional
 Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
 Description: Minecraft, Java Edition launcher for iOS, based on PojavLauncher Android.
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: DuyKhanhTran
 Name: Pojav Launcher
 
-Package: com.fantasticstore.openjdk-16-jre
+Package: openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
 Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
+Maintainer: Hayden Seay <me@diatr.us>
+Filename: ./debs/com.openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
 Size: 58095988 
 MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
 SHA1: 066594b2c3a6ad2a9d33bba9b1bb995d595c6cf6
@@ -43,7 +43,7 @@ Description: OpenJDK Java runtime, using Hotspot JIT
 Minimal Java runtime - needed for executing non GUI Java programs,
 using Hotspot JIT.
 Installed-Size: 333104
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: Hayden Seay <me@diatr.us> 
 Name: OpenJdk16
 
 Package: com.fantasticstore.PostBox
