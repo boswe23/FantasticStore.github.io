@@ -258,18 +258,3 @@ Installed-Size: 109622
 dev: kentkrantz
 Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
 
-Package: com.fantasticstore.unc0ver
-Name: Unc0ver
-Version: 1.0
-Filename: ./debs/com.fantasticstore.unc0ver_1.0_iphoneos-arm.deb
-Size: 58327116 
-MD5sum: 8ff06a4a18e8d1d61669c0eeef689d3b
-SHA1: 7634930efeeb2e481412a9737141a95d3144b273
-SHA256:  cfa8bb04ce10d246d56f90da6a3397295ae3c2861d43ce28550e5b8e8740b799
-Description: Jailbreak no pc! Works for ios 12/13/14!
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Section: Applications
-Architecture: iphoneos-arm
-
-
