@@ -186,20 +186,6 @@ Description: LiberiOS was a older jailbreak for iOS devices and one of the first
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: LiberiOS
 
-Package: com.fantasticstore.unc0vermulti
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.unc0vermulti_1.0_iphoneos-arm.deb
-Size: 22708636 
-MD5sum: f6e2015c21b07c12e8eddb8504085073
-SHA1: 02487c722f058d65d276a31a30d528a2254ade11
-SHA256: 3ae64b29433e0f52e522cd43693653697c4a7b9a2f709880502c0e29a3db55da
-Section: Applications 
-Description: A newer jailbreak for ios 12/13/14!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Unc0verMulti
-
 Package: com.rileytestut.altdaemon
 Version: 1.0
 Architecture: iphoneos-arm
@@ -272,5 +258,18 @@ Installed-Size: 109622
 dev: kentkrantz
 Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
 
+Package: com.fantasticstore.unc0ver
+Name: Unc0ver
+Version: 1.0
+Filename: ./debs/com.fantasticstore.unc0ver_1.0_iphoneos-arm.deb
+Size: 58327116 
+MD5sum: 8ff06a4a18e8d1d61669c0eeef689d3b
+SHA1: 7634930efeeb2e481412a9737141a95d3144b273
+SHA256:  cfa8bb04ce10d246d56f90da6a3397295ae3c2861d43ce28550e5b8e8740b799
+Description: Jailbreak no pc! Works for ios 12/13/14!
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Section: Applications
+Architecture: iphoneos-arm
 
 
