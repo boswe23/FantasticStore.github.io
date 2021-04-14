@@ -314,17 +314,16 @@ Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DeltaLite
 
 Package: com.fantasticstore.pojavalauncher
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.pojavlauncher_1.1_iphoneos-arm.deb
+Filename: ./debs/com.fantasticstore.pojavlauncher_1.0_iphoneos-arm.deb
 Depends: openjdk-16-jre
 Priority: optional
-Size: 9381088 
-MD5sum: 6c457576813906dd5ae5eb2d697c5791
-SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
-SHA256: 33e89508aedd24144aa91f7b7f34722428a2e673383bba2b8642aa5c5eb122f0
-Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Size: 9379584 
+MD5sum: 3642b4396932b4613df198dfa7546194
+SHA1: 437c31c28afe5fd5b28fc6ce8f4e061686fd48e2
+SHA256: e18e67437e23dda4a5f4a5b42972e9c40ebd0fd986b2cd27876acebc557dd4ac
 Section: Minecraft Java Setup
 Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
