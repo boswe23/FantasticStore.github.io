@@ -274,3 +274,16 @@ Depends: com.anemonetheming.anemone | com.spark.snowboard
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Frosty
 
+Package: com.fantasticstore.esign
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.esign_1.0_iphoneos-arm.deb
+Size: 4842250 
+MD5sum: 32e28790016b2965a860f17894323991
+SHA1: 4581a52f1d78f309de705d4f3f55ba56a6db923b
+SHA256: 97b80f393fe96fe6dd23aa6d6df66bc4e95aebfb8ed3e7abd637a87c989de2ab
+Section: Applications 
+Description: Install Or Import IPA files to your iOS device!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ESign
