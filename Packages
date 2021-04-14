@@ -287,3 +287,17 @@ Section: Applications
 Description: Install Or Import IPA files to your iOS device!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ESign
+
+Package: com.fantasticstore.gbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.gbox_1.0_iphoneos-arm.deb
+Size: 4378524 
+MD5sum: 381cfe33a335875b6282bf15483d8103
+SHA1: 1d0670969cc9cad8db00b2d1d64178eb3348dac0
+SHA256: 8152e68d09820ba00823a21c95168163d92e20f75d12cd9178f2932a3ee12fd9
+Section: Applications 
+Description: Install IPAS directly to your iOS device! Works for iphone/ipad!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GBox
