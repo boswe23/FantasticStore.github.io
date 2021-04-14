@@ -329,3 +329,20 @@ Section: Emulators
 Description: Lite Version of Delta N64 Emulator! Play N64 Games and Much More!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DeltaLite
+
+Package: com.fantasticstore.pojavalauncher
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.pojavlauncher_1.1_iphoneos-arm.deb
+Depends: openjdk-16-jre
+Priority: optional
+Size: 9381088 
+MD5sum: 6c457576813906dd5ae5eb2d697c5791
+SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
+SHA256: 33e89508aedd24144aa91f7b7f34722428a2e673383bba2b8642aa5c5eb122f0
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Section: Minecraft Java Setup
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: PojavaLauncher
