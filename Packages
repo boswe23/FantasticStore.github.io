@@ -315,3 +315,17 @@ Section: Emulators
 Description: Play Old Retro games right on your iOS device!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Delta
+
+Package: com.fantasticstore.deltalite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.deltalite_1.0_iphoneos-arm.deb
+Size: 15133968 
+MD5sum: ad4ea33a53c9ec5f4315f806516496bf
+SHA1: 5be220ce99f770ce96733568e594458d28b777a5
+SHA256: 50218c678cbfdee5c94e022a995b42824f1c4d645463e4f35bcadd98ab412cbc
+Section: Emulators
+Description: Lite Version of Delta N64 Emulator! Play N64 Games and Much More!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: DeltaLite
