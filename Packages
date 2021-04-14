@@ -301,3 +301,17 @@ Section: Applications
 Description: Install IPAS directly to your iOS device! Works for iphone/ipad!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: GBox
+
+Package: com.fantasticstore.delta
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.delta_1.0_iphoneos-arm.deb
+Size: 18333714 
+MD5sum: 3f504183bc4b4fabc9b7a3fe99a0d4d4
+SHA1: 820e765b86ebea39ffc043487678544bf893ada9
+SHA256: b40cacf793c5b45d8b240ef868bfb85c694babf95121814aa07028d3b89a074b
+Section: Emulators
+Description: Play Old Retro games right on your iOS device!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Delta
