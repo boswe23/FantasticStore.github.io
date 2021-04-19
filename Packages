@@ -330,16 +330,3 @@ Description: Lite Version of Delta N64 Emulator! Play N64 Games and Much More!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DeltaLite
 
-Package: com.fantasticstore.reKairos
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.reKairos_1.0_iphoneos-arm.deb
-Size: 27874608 
-MD5sum: 40ced8e09f22cc49b2089535965a3303
-SHA1: ceeb1e98b9b9f61e6928acbaab1fe81a69dfdb58
-SHA256: e29a2ebf3bdb8bf19b0dcdb8c637d3f3382ee79c5f5aa6a997cb3a93b0fb730b
-Section: Emulators
-Description: Play Fortnite on iOS 14 with ReKairOS! Only for fortnite fans and fortnite players! Thanks to those tech people!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: ReKairOS
