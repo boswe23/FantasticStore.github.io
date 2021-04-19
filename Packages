@@ -12,11 +12,28 @@ Description: Install Altstore but make sure you include Altdeamon for this to wo
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltStore
 
-Package: com.openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
+Package: pojavlauncher
+Maintainer: DuyKhanhTran
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: openjdk-16-jre
+Filename: ./debs/pojavlauncher_iphoneos-arm.deb
+Size: 9381088 
+MD5sum: 6c457576813906dd5ae5eb2d697c5791
+SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
+SHA256: 33e89508aedd24144aa91f7b7f34722428a2e673383bba2b8642aa5c5eb122f0
+Section: Minecraft Java Setup
+Priority: optional
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft, Java Edition launcher for iOS, based on PojavLauncher Android.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Pojav Launcher
+
+Package: openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
 Architecture: iphoneos-arm
-Maintainer: Hayden Seay <me@diatr.us>
-Filename: ./debs/com.openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
 Size: 58095988 
 MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
 SHA1: 066594b2c3a6ad2a9d33bba9b1bb995d595c6cf6
@@ -26,7 +43,7 @@ Description: OpenJDK Java runtime, using Hotspot JIT
 Minimal Java runtime - needed for executing non GUI Java programs,
 using Hotspot JIT.
 Installed-Size: 333104
-Author: Hayden Seay <me@diatr.us> 
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: OpenJdk16
 
 Package: com.fantasticstore.PostBox
@@ -313,18 +330,16 @@ Description: Lite Version of Delta N64 Emulator! Play N64 Games and Much More!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DeltaLite
 
-Package: com.fantasticstore.pojavalauncher
+Package: com.fantasticstore.reKairos
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.pojavlauncher_1.0_iphoneos-arm.deb
-Depends: openjdk-16-jre
-Priority: optional
-Size: 9379584 
-MD5sum: 3642b4396932b4613df198dfa7546194
-SHA1: 437c31c28afe5fd5b28fc6ce8f4e061686fd48e2
-SHA256: e18e67437e23dda4a5f4a5b42972e9c40ebd0fd986b2cd27876acebc557dd4ac
-Section: Minecraft Java Setup
-Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Filename: ./debs/com.fantasticstore.reKairos_1.0_iphoneos-arm.deb
+Size: 27874608 
+MD5sum: 40ced8e09f22cc49b2089535965a3303
+SHA1: ceeb1e98b9b9f61e6928acbaab1fe81a69dfdb58
+SHA256: e29a2ebf3bdb8bf19b0dcdb8c637d3f3382ee79c5f5aa6a997cb3a93b0fb730b
+Section: Emulators
+Description: Play Fortnite on iOS 14 with ReKairOS! Only for fortnite fans and fortnite players! Thanks to those tech people!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: PojavaLauncher
+Name: ReKairOS
