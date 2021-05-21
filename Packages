@@ -158,20 +158,6 @@ Description: No Ads, Seeking Enabled, No Forced Shuffle, Unlimited Skips!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Spotify++
 
-Package: com.fantasticstore.zinitevi
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.zinitevi_1.0_iphoneos-arm.deb
-Size: 15505384   
-MD5sum: d1dd2b96e4c9d60d9ba5616e4c4532d1
-SHA1: ce7cc981376684b1a26d5c8ab267fd360c65fe0b
-SHA256: 16af87f716c621b556fc5b9c2e6fa62bdb1bd39d3771f840a40da591801dba30
-Section: Applications 
-Description: App for watching free movies and more! ++ Version!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: ZiniTevi
-
 Package: com.fantasticstore.liberios
 Version: 1.0
 Architecture: iphoneos-arm
