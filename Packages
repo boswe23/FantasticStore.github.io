@@ -330,3 +330,17 @@ Description: Lite Version of Delta N64 Emulator! Play N64 Games and Much More!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DeltaLite
 
+Package: com.fantasticstore.eraserplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.eraserplus_1.0_iphoneos-arm.deb
+Size: 8644298 
+MD5sum: 062175e6dec9d2a8d7423217304f4a5a
+SHA1: df8206e9108515f6987d25f507001b421ed6ebf4
+SHA256: 2743e1dfac7a8bd98727497b5f5d0f19e7c03d86b380ec948bbae1d965754c8d
+Section: Applications
+Description: Erase and crop image with this premium app all for free!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: EraserPlus
+
