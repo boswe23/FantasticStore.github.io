@@ -344,3 +344,16 @@ Description: Erase and crop image with this premium app all for free!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: EraserPlus
 
+Package: com.fantasticstore.mcpeaddons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.mcpeaddons_1.0_iphoneos-arm.deb
+Size: 11855118 
+MD5sum: 4ee7bc116c4b6081b4d584b5ee8466ff
+SHA1: 2e2551992f5e7b14738d2964e6b7a839654e20ec
+SHA256: 476b28ed0e3998c57b6d6e8335b32b5bc48c338dbe31df9fb7b8653dc2c5026c
+Section: Applications
+Description: Add or download minecraft maps and import them to minecraft PE!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Addons
