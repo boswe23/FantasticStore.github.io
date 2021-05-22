@@ -357,3 +357,17 @@ Section: Applications
 Description: Duet display for screen mirroing your apple devices to your computers.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Duet
+
+Package: com.fantasticstore.snaptube
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.snaptube_1.0_iphoneos-arm.deb
+Size: 9447060 
+MD5sum: 7adcd3b2a62f8720557e8f68fcb67fb3
+SHA1: e0950717f4b71f761092ed6b7e267c7057f0d0c0
+SHA256: b1b9864225c7b901b8cabbba295eacde8a8063b3fd04cb63a903cdb9d52f55f3
+Section: Applications
+Description: Install mp3,mp4 files or download youtube videos too.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: SnapTube
