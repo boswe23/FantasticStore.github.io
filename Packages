@@ -274,20 +274,6 @@ Description: Install Or Import IPA files to your iOS device!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ESign
 
-Package: com.fantasticstore.gbox
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.gbox_1.0_iphoneos-arm.deb
-Size: 4378524 
-MD5sum: 381cfe33a335875b6282bf15483d8103
-SHA1: 1d0670969cc9cad8db00b2d1d64178eb3348dac0
-SHA256: 8152e68d09820ba00823a21c95168163d92e20f75d12cd9178f2932a3ee12fd9
-Section: Applications 
-Description: Install IPAS directly to your iOS device! Works for iphone/ipad!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: GBox
-
 Package: com.fantasticstore.delta
 Version: 1.0
 Architecture: iphoneos-arm
@@ -357,3 +343,17 @@ Section: Applications
 Description: Duet display for screen mirroing your apple devices to your computers.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Duet
+
+Package: com.fantasticstore.gbox
+Version: 3.3.5
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.gbox_3.3.5_iphoneos-arm.deb
+Size: 4381004 
+MD5sum: bb05c8dfc75fae321983b6639d9c1679
+SHA1: 6b0c1c7c4b1cc023d1404ec0984bfea5741a15fa
+SHA256: 53f55901d16fb3274542552ddd616219eeea989465a8048caaf5aabe544341b1
+Section: Applications
+Description: Another Altstore alternative, but sideload and install ipa files directly to your iOS devices! 
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GBox
