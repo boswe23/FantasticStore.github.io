@@ -245,21 +245,6 @@ Installed-Size: 109622
 dev: kentkrantz
 Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
 
-Package: com.fantasticstore.frosty
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.frosty_1.0_iphoneos-arm.deb
-Size: 15392 
-MD5sum: 2cf15a89237be17e34d254087e2206fa
-SHA1: 105838825d3bb515a10c1bd783baa69ab62182fc
-SHA256: e766c6ddcf47ce606442b980e582b58e452cfdde5f8800e88e3538a8ccfb8865
-Section: Themes
-Description: A theme that represented my old iOS Twitter account logo! I just want people to use this that's all!
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Frosty
-
 Package: com.fantasticstore.esign
 Version: 1.0
 Architecture: iphoneos-arm
