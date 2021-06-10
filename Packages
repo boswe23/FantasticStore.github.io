@@ -342,3 +342,17 @@ Section: Applications
 Description: Another Altstore alternative, but sideload and install ipa files directly to your iOS devices! 
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: GBox
+
+Package: com.fantasticstore.appweleux
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.appweleux_1.0_iphoneos-arm.deb
+Size: 8189620 
+MD5sum: fb4691d5d8f80b0527be1f585acac819
+SHA1: 33d4f5c845e51ab6c1346366539443ba4a31c22b
+SHA256: d92998610f087862891e41d1779e8647cb55b51320db16993c996188b7e260a0
+Section: Applications
+Description: AppWeleux is a third party appstore way better then TutuBox and Eonhub combine! AppWeleux is a must have app for installing cool software.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AppWeleux
