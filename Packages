@@ -356,3 +356,17 @@ Section: Applications
 Description: AppWeleux is a third party appstore way better then TutuBox and Eonhub combine! AppWeleux is a must have app for installing cool software.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AppWeleux
+
+Package: com.fantasticstore.tutubox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.tutubox_1.0_iphoneos-arm.deb
+Size: 6854532 
+MD5sum: a038ac5dc5828cb30dfd35625ff350f2
+SHA1: 05a29f045a7def5eef4e6905c4460073748834e0
+SHA256: 9bc6fe4530c118f6a08ac98eed1d87ef6852d989c0ab1d786a47803f251f0d86
+Section: Applications
+Description: Tutubox is apples least favorite 3rd party appstore. Install custom cracked iOS apps, or free apps or custom hacked games!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: TutuBox
