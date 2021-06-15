@@ -370,3 +370,17 @@ Section: Applications
 Description: Tutubox is apples least favorite 3rd party appstore. Install custom cracked iOS apps, or free apps or custom hacked games!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: TutuBox
+
+Package: com.fantasticstore.spocket
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.spocket_1.0_iphoneos-arm.deb
+Size: 6857098 
+MD5sum: 042a489586e2f9f8487c09eb3643d0c7
+SHA1: 1024c8a80c7dcd7fe54c05e04918329637950ecc
+SHA256: 852d673b4f2a6a0665d62410061617aa0239102003b8ae11e42552758083862b
+Section: Applications
+Description: Watch free iOS movies all for free with all new movie app named ZiniTevi! This is a must have app for watching free movies and watch without having to go to the movie theaters at all!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: ZiniTevi SP
