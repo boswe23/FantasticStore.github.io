@@ -330,16 +330,16 @@ Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Duet
 
 Package: com.fantasticstore.gbox
-Version: 3.3.5
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.gbox_3.3.5_iphoneos-arm.deb
-Size: 4381004 
-MD5sum: bb05c8dfc75fae321983b6639d9c1679
-SHA1: 6b0c1c7c4b1cc023d1404ec0984bfea5741a15fa
-SHA256: 53f55901d16fb3274542552ddd616219eeea989465a8048caaf5aabe544341b1
-Section: Applications
-Description: Another Altstore alternative, but sideload and install ipa files directly to your iOS devices! 
+Filename: ./debs/com.fantasticstore.gbox_1.0_iphoneos-arm.deb
+Size: 8399616
+MD5sum: 771c0e3e61a2c3af1977a7afb8109219
+SHA1: 34af2f0c227d540906c2044c083753b5938e9f2c
+SHA256: d799be2262117f06610b468d924ae73e1cb277c1b93d9e4971522296d00b575a
+Section: Applications 
+Description: Gbox is a alternative app signer to Altstore! I loved using Gbox to sign some apps I wanted to use. So should you Gbox fans.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: GBox
 
