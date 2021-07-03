@@ -398,3 +398,17 @@ Section: Applications
 Description: A jailbreak for iphones and ipads running iOS 11/12! A jailbreak without a pc by app is more easy and helpful.
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Electra
+
+Package: com.fantasticstore.lumafx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.lumafx_1.0_iphoneos-arm.deb
+Size: 19066856 
+MD5sum: c87fc5e2f2f088f6b3895b3cb27cfb96
+SHA1: 085030fb78670da321273575e2d008afd3159771
+SHA256: e3f80d3c301f290525193251ba17623c5b1bd174f2692d5d7d40e568f661b77c
+Section: Applications
+Description:  Lumafusion alternative app or kind of like the baby lumafusion app, for editing videos and audio clips for those videos! A great app for making videos or fixing some videos!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: LumaFX
