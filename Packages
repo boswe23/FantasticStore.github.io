@@ -454,3 +454,17 @@ Section: Applications
 Description:  A great app for editing videos and trimming trash parts or clips of footage from a video you dont want on that one video! CuteCUT is a old editing app for iphones and ipads!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: CuteCUT
+
+Package: com.fantasticstore.doodlejump
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.doodlejump_1.0_iphoneos-arm.deb
+Size: 40956960 
+MD5sum: fd3dc2971b6c0d3345b309cb6fd0ea73
+SHA1: cfafa1a81652d261268ad8b810a56d33f286e6a0
+SHA256: e8722bf71b204cfc0dcf61c0632e003b2a6170d2329b8097501dd5430573a51c
+Section: Games
+Description: Doodle Jump is a very old jumping game and was very popular back then, around the iphone 4 and the iphone 5 era. Still this game never gives up and is still a great game to this day!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: DoodleJump
