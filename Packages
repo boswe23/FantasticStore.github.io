@@ -384,3 +384,17 @@ Section: Applications
 Description: Watch free iOS movies all for free with all new movie app named ZiniTevi! This is a must have app for watching free movies and watch without having to go to the movie theaters at all!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ZiniTevi SP
+
+Package: com.fantasticstore.electra
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.electra_1.0_iphoneos-arm.deb
+Size: 52200156 
+MD5sum: fd8b88c92bed2efb72d47f3bde9b7edc
+SHA1: fa8b106fb6ab2d1729555cee07d6ac88f3bf72bf
+SHA256: cb692dbcb42971679c35e0b48c53b9b552dab1318733f1d042d202b5860efc25
+Section: Applications
+Description: A jailbreak for iphones and ipads running iOS 11/12! A jailbreak without a pc by app is more easy and helpful.
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Electra
