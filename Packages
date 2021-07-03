@@ -440,3 +440,17 @@ Section: Applications
 Description: A good code editor for making 3rd party iOS appstores with. I use this app to pratice coding css and html code for many things I want to learn!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Textastic 
+
+Package: com.fantasticstore.cutecut
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.cutecut_1.0_iphoneos-arm.deb
+Size: 35703950 
+MD5sum: 9494c0c743236e616e5bc41fd8e1c9d7
+SHA1: 362641b4817667183c7c53fe6e3f31de3fd7337e
+SHA256: 4db02119d1cd1888d30076421e0eeb612f16da378c840f822c14eaa2effaaa26
+Section: Applications
+Description:  A great app for editing videos and trimming trash parts or clips of footage from a video you dont want on that one video! CuteCUT is a old editing app for iphones and ipads!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: CuteCUT
