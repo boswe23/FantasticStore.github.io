@@ -482,3 +482,17 @@ Section: Applications
 Description: A tool to find many cydia repos that you want to add to your jailbroken package manager! RepoFinder was made by Quix and also lets you find repos, similar to how Cydown lets you have a +sources section to add cydia repos really easy. This app is a helpful amd newer tool!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: RepoFinder
+
+Package: com.fantasticstore.mangareader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.mangareader_1.0_iphoneos-arm.deb
+Size: 21016098 
+MD5sum: 8731a9bddc28a9f8d9d9385a7608c62e
+SHA1: b94627460d45255e656223fc49ec79825189fd5c
+SHA256: c4e1a1f715ebea7c52f9bbf41bb63c7cc009ce5cae51c01c983bb4aef36f1685
+Section: Applications
+Description: For anime fans and also for people who just love to read manga books about their favorite anime topics! Many people will love this MangaReader app because its no longer in the appstore but you can enjoy it here on FantasticStore Repo!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: MangaReader
