@@ -496,3 +496,17 @@ Section: Applications
 Description: For anime fans and also for people who just love to read manga books about their favorite anime topics! Many people will love this MangaReader app because its no longer in the appstore but you can enjoy it here on FantasticStore Repo!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: MangaReader
+
+Package: com.fantasticstore.snoanime
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.snoanime_1.0_iphoneos-arm.deb
+Size: 3183212 
+MD5sum: 39532d8375b3cc79d1923789a980bf3c
+SHA1: dbfca07a5b3075c4550e2cdb035bbcb62976a0fc
+SHA256: 086f2d8fca6d6343ab7615d1949c490070458ac9936c6dd23b4e9a4f30df7519
+Section: Applications
+Description: SnoAnime is a great anime app but some reason its in a arabic language! Also it use to be on the apples appstore but not anymore. This is a great app but you need to know the language unless you can translate the language of this anime app!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: SnoAnime
