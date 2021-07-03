@@ -426,3 +426,17 @@ Section: Applications
 Description: A Gbox alternative to install 3rd party applications or otherwise another word for application is software! I think the people behind Gbox made MagicSign, because they look like they both work simliar and come from the same iOS app signing family!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: MagicSign
+
+Package: com.fantasticstore.textastic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.textastic_1.0_iphoneos-arm.deb
+Size: 8068966 
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Applications
+Description: A good code editor for making 3rd party iOS appstores with. I use this app to pratice coding css and html code for many things I want to learn!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Textastic 
