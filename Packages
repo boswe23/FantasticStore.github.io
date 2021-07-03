@@ -385,20 +385,6 @@ Description: Watch free iOS movies all for free with all new movie app named Zin
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: ZiniTevi SP
 
-Package: com.fantasticstore.electra
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.electra_1.0_iphoneos-arm.deb
-Size: 52200156 
-MD5sum: fd8b88c92bed2efb72d47f3bde9b7edc
-SHA1: fa8b106fb6ab2d1729555cee07d6ac88f3bf72bf
-SHA256: cb692dbcb42971679c35e0b48c53b9b552dab1318733f1d042d202b5860efc25
-Section: Applications
-Description: A jailbreak for iphones and ipads running iOS 11/12! A jailbreak without a pc by app is more easy and helpful.
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Electra
-
 Package: com.fantasticstore.lumafx
 Version: 1.0
 Architecture: iphoneos-arm
@@ -482,3 +468,17 @@ Section: Applications
 Description: A new 3rd party appstore alternative to eonhub but way more better! Scarlet is probably the newest or second newest 3rd party appstore for tweaked apps and ++ games for right now!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: Crimson
+
+Package: com.fantasticstore.repofinder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.repofinder_1.0_iphoneos-arm.deb
+Size: 10381832 
+MD5sum: a0bbbdbe20ffb2b035328c95061ebef7
+SHA1: 797d30ea101bd3ee9b200b589685b51155014037
+SHA256: 152bd22dc1205317d3f2c2617cdba045e8682ae7b725d11a0b2fc1908d73ef07
+Section: Applications
+Description: A tool to find many cydia repos that you want to add to your jailbroken package manager! RepoFinder was made by Quix and also lets you find repos, similar to how Cydown lets you have a +sources section to add cydia repos really easy. This app is a helpful amd newer tool!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: RepoFinder
