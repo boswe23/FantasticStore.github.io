@@ -468,3 +468,17 @@ Section: Games
 Description: Doodle Jump is a very old jumping game and was very popular back then, around the iphone 4 and the iphone 5 era. Still this game never gives up and is still a great game to this day!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: DoodleJump
+
+Package: com.fantasticstore.crimson
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.crimson_1.0_iphoneos-arm.deb
+Size: 20586902 
+MD5sum: b2530366949b935d2000ab5a18255098
+SHA1: 78faf1110639b445c635c7cded92e283a6dc0801
+SHA256: f12b3a060cebecbcc9eb20dbc663f5200d654f9b7a64389d040407ac7982c374
+Section: Applications
+Description: A new 3rd party appstore alternative to eonhub but way more better! Scarlet is probably the newest or second newest 3rd party appstore for tweaked apps and ++ games for right now!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: Crimson
