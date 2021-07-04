@@ -510,3 +510,17 @@ Section: Applications
 Description: SnoAnime is a great anime app but some reason its in a arabic language! Also it use to be on the apples appstore but not anymore. This is a great app but you need to know the language unless you can translate the language of this anime app!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: SnoAnime
+
+Package: com.fantasticstore.geometrydashmeltdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.geometrydashmeltdown_1.0_iphoneos-arm.deb
+Size: 35858108 
+MD5sum: 7a8dd1f97c8b4bee1d45113398f507fc
+SHA1: 7ff511d1f8fa6a4eb288f02ddeacd3409864d7f3
+SHA256: d9df56a47e539b3d615215853799a63345c85c8824492c16902179f1f3e575b6
+Section: Applications
+Description: Geometry Dash Meltdown is a great game for all who play video games on their mobile devices. This is the Meltdown version or should I say looks like a volcano version of the original Geometry Dash game! A fun game to complete hard levels!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: GeometryDashMeltdown
