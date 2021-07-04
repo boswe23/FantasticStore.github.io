@@ -538,3 +538,17 @@ Section: Emulators
 Description: Wanted to play super smash bros on your iphone or ipad? Then this iSSB emulator lets you play a alternative SMASH BROS! This emulator is kind of old!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: iSSB
+
+Package: com.fantasticstore.inds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.inds_1.0_iphoneos-arm.deb
+Size: 8381458 
+MD5sum: c79358ff1f434a40c60f7eb87e2f47f5
+SHA1: 470f4be0e7ed2eaac598035d1ac1179136546e4a
+SHA256: e3d685c5cfa079c5b357f76b7c638860d3903a0e94e4d091ca9bb669f63e0b3f
+Section: Emulators
+Description:  With iNDS you can play old nintendo ds original games with this one emulator. Its very cool and lets you play the old nintendo ds games you use to love playing, when you were way younger and its brought back with iNDS Emulator app!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iNDS
