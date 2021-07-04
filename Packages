@@ -524,3 +524,17 @@ Section: Games
 Description: Geometry Dash Meltdown is a great game for all who play video games on their mobile devices. This is the Meltdown version or should I say looks like a volcano version of the original Geometry Dash game! A fun game to complete hard levels!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: GeometryDashMeltdown
+
+Package: com.fantasticstore.issb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.issb_1.0_iphoneos-arm.deb
+Size:  18904912 
+MD5sum: 1de084db8998bb4b74a2b64064dc3091
+SHA1: ec27b8d9591a0e49ce5f122c90c62498861a1c2d
+SHA256: 9e9cb590bc93653117544e52e33da2dbfbda7fc31f9e35e61a0bdbc2ed58dc3f
+Section: Emulators
+Description: Wanted to play super smash bros on your iphone or ipad? Then this iSSB emulator lets you play a alternative SMASH BROS! This emulator is kind of old!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: iSSB
