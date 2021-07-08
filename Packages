@@ -562,7 +562,21 @@ Size: 44519196
 MD5sum: 792d552d1d742c7cbb34bedbc31aa1e8
 SHA1: 094b75ac8beb18c4b34027a641f248fddeea6c37
 SHA256: ea870a2e9ab380743c11eaecc6497852fa64727608810209896befc5905892ac
-Section: Emulators
+Section: Applications
 Description:  AnimeGlare is a good app to watch live free anime or just watch any type of anime genre you love to watch for free using AnimeGlare! AnimeGlare is one of the best anime apps to watch anime free without having to use netflix or funamation!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AnimeGlare
+
+Package: com.fantasticstore.s3music
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.s3music_1.0_iphoneos-arm.deb
+Size: 39394164 
+MD5sum: da81742bb7ca7c9c35729e5eca9efbb7
+SHA1: 4b1ff36a2c6d94265f07ba1636c576b9f8072053
+SHA256: 7714542d1e0fdcbb2451482cca24edfd1f815b3ca1c39791f9820ebeaaaf646c
+Section: Applications
+Description: A new music app to watch and listen to new music! Ever wanted to listen to free music without paying money to listen tohis music? A new music app removed from the apples appstore to download software! Enjoy it on my newest cydia repo always will be updated here!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: S3Music
