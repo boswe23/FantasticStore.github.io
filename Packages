@@ -552,3 +552,17 @@ Section: Emulators
 Description:  With iNDS you can play old nintendo ds original games with this one emulator. Its very cool and lets you play the old nintendo ds games you use to love playing, when you were way younger and its brought back with iNDS Emulator app!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: iNDS
+
+Package: com.fantasticstore.animeglare
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./debs/com.fantasticstore.animeglare_3.0.4_iphoneos-arm.deb
+Size: 44519196
+MD5sum: 792d552d1d742c7cbb34bedbc31aa1e8
+SHA1: 094b75ac8beb18c4b34027a641f248fddeea6c37
+SHA256: ea870a2e9ab380743c11eaecc6497852fa64727608810209896befc5905892ac
+Section: Emulators
+Description:  AnimeGlare is a good app to watch live free anime or just watch any type of anime genre you love to watch for free using AnimeGlare! AnimeGlare is one of the best anime apps to watch anime free without having to use netflix or funamation!
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Name: AnimeGlare
