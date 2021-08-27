@@ -12,23 +12,6 @@ Description: Install Altstore but make sure you include Altdeamon for this to wo
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: AltStore
 
-Package: pojavlauncher
-Maintainer: DuyKhanhTran
-Architecture: iphoneos-arm
-Version: 1.1
-Depends: openjdk-16-jre
-Filename: ./debs/pojavlauncher_iphoneos-arm.deb
-Size: 9381088 
-MD5sum: 6c457576813906dd5ae5eb2d697c5791
-SHA1: d8f8a27c4ae84def65345c69756fefcecc7e06d6
-SHA256: 33e89508aedd24144aa91f7b7f34722428a2e673383bba2b8642aa5c5eb122f0
-Section: Minecraft Java Setup
-Priority: optional
-Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
-Description: Minecraft, Java Edition launcher for iOS, based on PojavLauncher Android.
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: Pojav Launcher
-
 Package: openjdk-16-jre
 Version: 16.0.0+git20201217.8383f41-2
 Architecture: iphoneos-arm
@@ -605,9 +588,30 @@ Replaces: java-8-openjdk
 Conflicts: java-8-openjdk, openjdk-8-jdk
 Version: 1.8.0~292b10-build8
 Depends: firmware (>= 12.0)
-Section: Development
+Section: Minecraft Java Setup
 Priority: optional
 Homepage: https://www.azul.com
 Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul's Runtime.
 Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json&name=OpenJDK%208%20Runtime%20Environment&dev=PojavLauncherTeam&section=Development
 SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json
+
+Package: pojavlauncher
+Filename: ./debs/pojavlauncher_1.2_iphoneos-arm.deb
+Size: 6808892 
+MD5sum: e9eddf98494238200f3252eba2606135
+SHA1: 181a473ca418256e50029fd3bd2a9c93f7c3eb63
+SHA256: 0493e4d0d4f4a481404a7b9b4785dd0c10ff29bb4b8235e62e2483c32f3bed82
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2
+Depends: openjdk-16-jre, firmware (>= 12.0)
+Conflicts: pojavlauncher-dev, pojavlauncher-zink
+Section: Minecraft Java Setup
+Priority: optional
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Name: PojavLauncher iOS
+Icon: https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/pojavlauncher.json&name=PojavLauncher%20iOS&dev=PojavLauncherTeam&section=Games&icon=https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
+SileoDepiction: https://repo.doregon.gq/depictions/natives/pojavlauncher.json
