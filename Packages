@@ -590,3 +590,24 @@ Section: Applications
 Description: A new music app to watch and listen to new music! Ever wanted to listen to free music without paying money to listen tohis music? A new music app removed from the apples appstore to download software! Enjoy it on my newest cydia repo always will be updated here!
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: S3Music
+
+Package: openjdk-8-jre
+Filename: ./debs/openjdk-8-jre_1.8.0~292b10-build8_iphoneos-arm.deb
+Size: 27723276 
+MD5sum: 569e00fe723f51e3e11cfcd5fc401954
+SHA1: 4184d97c113346cc6fbabaed251d69d8de1d3d10
+SHA256: 3c7723a20e43a5d9e332c85a7605ca326bddc8e80c56cd00a1472b47390cd6ea
+Name: openjdk-8-jre
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Architecture: iphoneos-arm
+Replaces: java-8-openjdk
+Conflicts: java-8-openjdk, openjdk-8-jdk
+Version: 1.8.0~292b10-build8
+Depends: firmware (>= 12.0)
+Section: Development
+Priority: optional
+Homepage: https://www.azul.com
+Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul's Runtime.
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json&name=OpenJDK%208%20Runtime%20Environment&dev=PojavLauncherTeam&section=Development
+SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json
