@@ -615,3 +615,18 @@ Name: PojavLauncher iOS
 Icon: https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
 Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/pojavlauncher.json&name=PojavLauncher%20iOS&dev=PojavLauncherTeam&section=Games&icon=https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
 SileoDepiction: https://repo.doregon.gq/depictions/natives/pojavlauncher.json
+
+Package: com.fantasticstore.apollo
+Filename: ./debs/com.fantasticstore.apollo_1.0_iphoneos-arm.deb
+Size: 672116
+MD5sum: 48e491a477a4257dac864da7d9a16ee8
+SHA1: 451c7453763004302c736ec62728e1d00f6404db
+SHA256: 4927f07f108172b83ff1c3624107295dde0ef08a2b8978dd7ca8a79573316558
+Name: Apollo
+Version: 1.0
+Description: Another 3rd party Appstore, just like tutubox, appvalley, flekstore, tutuapp, panda helper, scarlet, zeus! This is one of the newest 3rd party iOS
+appstore for non jailbroken iOS devices! Made by instaTechHd! 2021-2022!
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Section: Applications
+Architecture: iphoneos-arm
