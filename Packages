@@ -639,7 +639,7 @@ SHA1: ead64e3b490d7c8521b7a5ae74c55fa3945d53db
 SHA256:  13694590b5907c949780ea6fcd6143879111c866893cf8729a120793759f354d
 Version: 10.3
 Name: MovieBoxPro
-Section: Applications 
+Section: Movie
 Description: The best Moive&TVShow App(iOS,Mac,Android,TV,Win,Web)!
 Architecture: iphoneos-arm
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
