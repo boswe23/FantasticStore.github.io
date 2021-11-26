@@ -630,3 +630,18 @@ Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Section: Applications
 Architecture: iphoneos-arm
+
+Package: com.xd.mbp20
+Filename: ./debs/MovieBoxPro_10.3.deb
+Size: 38779332 
+MD5sum: 7ec97157f1cbd73006c690a1c32c6864
+SHA1: ead64e3b490d7c8521b7a5ae74c55fa3945d53db
+SHA256:  13694590b5907c949780ea6fcd6143879111c866893cf8729a120793759f354d
+Version: 10.3
+Name: MovieBoxPro
+Section: Applications 
+Description: The best Moive&TVShow App(iOS,Mac,Android,TV,Win,Web)!
+Architecture: iphoneos-arm
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+
