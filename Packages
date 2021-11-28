@@ -645,3 +645,42 @@ Architecture: iphoneos-arm
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 
+Package: pojavlauncher-dev
+Filename: ./debs/pojavlauncher-dev_2.0~alpha8_iphoneos-arm.deb
+Size: 17422460 
+MD5sum: d48db7c1ffd00a61a7d8d6fcc9a66146
+SHA1: 5266330cd81b2c7eb51a644b8d0cececa8c1ea27
+SHA256:  2a1f511ff13a9cc5cb845637d9bfdad7ad9fb2a9dfe845cc69cca24fcb6d3844
+Name: PojavLauncher iOS (Dev)
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Architecture: iphoneos-arm
+Version: 2.0~alpha8
+Depends: openjdk-8-jre | openjdk-16-jre | openjdk-8-jdk | openjdk-16-jdk, firmware
+(>= 12.0)
+Conflicts: pojavlauncher, pojavlauncher-zink
+Section: Games
+Priority: optional
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher
+Android.
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/pojavlauncher-dev.json&name=PojavLauncher%20iOS%28Dev%29&dev=PojavLauncherTeam&section=Games&icon=https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
+SileoDepiction: https://repo.doregon.gq/depictions/natives/pojavlauncher-dev.json
+Icon: https://repo.doregon.gq/images/icons/pojavlauncher_icon.png
+
+Package: jp.akusio.backgrounderaction13
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078 
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+Name: BackgrounderAction2 for CCSupport
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Section: Tweaks
+Version: 0.1.4
+Installed-Size: 244
