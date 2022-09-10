@@ -687,3 +687,21 @@ SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
 Section: Apps
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.3-beta.deb
+Size: 23033484 
+MD5sum: 44d12f7b1d2328a0a9c8d78bb1e1f994
+SHA1: 15e0c13f642125c3f6ffe8721e5d1c2bae175a57
+SHA256: 1268ebe12e9857be6afcadfe6f78a9822065c9a1ec442da78957079b806ad628
+Name: PostBox
+Version: 0.3
+Architecture: iphoneos-arm
+Description: News, tweak lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
