@@ -707,18 +707,17 @@ Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 
 Architecture: iphoneos-arm
-Package: repo.dpkghub.crane
 Filename: ./repo.dpkghub.crane_1.1.2-5_iphoneos-arm.deb
-Size: 436954
+Size: 436954 
 MD5sum: 322091f853decffe6675e8a8a3d4bb52
 SHA1: fbdd45516b66bc4f62c5b141081b5e67895b9e90
 SHA256: 45511de3562b922c6a7eefb8430897b4a01f1ec67dccb032bb865ba45c6740c3
+Package: repo.dpkghub.crane
 Name: Crane
 Version: 1.1.2-5
 Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
 SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-ModernDepiction: https://repo.dpkghub.com/depiction/native
-repo.dpkghub.crane.json
+ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
 Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
 Description: Multiple containers for your applications!
 Homepage: https://repo.dpkghub.com
@@ -771,50 +770,3 @@ Description: Bring Back Dislikes On YouTube and works!
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
 Tag: compatible_min::ios11.0
-
-Architecture: iphoneos-arm
-Filename: ./repo.dpkghub.crane_1.1.2-5_iphoneos-arm.deb
-Size: 436954 
-MD5sum: 322091f853decffe6675e8a8a3d4bb52
-SHA1: fbdd45516b66bc4f62c5b141081b5e67895b9e90
-SHA256: 45511de3562b922c6a7eefb8430897b4a01f1ec67dccb032bb865ba45c6740c3
-Package: repo.dpkghub.crane
-Name: Crane
-Version: 1.1.2-5
-Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
-SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
-Description: Multiple containers for your applications!
-Homepage: https://repo.dpkghub.com
-Section: Tweaks
-Depends: firmware (>=11.0), firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Tags: compatible_min::ios11.0, compatible_max::ios14.5
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Tag: purpose::extension
-SomeOtherEntryToControl: True
-
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./com.opa334.libsandy_1.0.2_iphoneos-arm.deb
-Size: 24862 
-MD5sum: e4412c3986af28cc9ba00b51ed00567d
-SHA1: fde6f52709caaefa9085f9895972a9dc1b817db5
-SHA256: 45443f190ed59602f66a5d4d40b2a08753b12139204901c28933bf4cf524e5c7
-Name: libSandy
-Package: com.opa334.libsandy
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Section: System
-Installed-Size: 576
-Version: 1.0.2
-Architecture: iphoneos-arm
-Description: Securely extend the sandbox of system processes and user applications!
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: opa334
-Tag: purpose::extension, role::developer
-
