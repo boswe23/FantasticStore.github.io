@@ -545,21 +545,6 @@ Description:  With iNDS you can play old nintendo ds original games with this on
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Name: iNDS
 
-Package: com.fantasticstore.animeglare
-Version: 3.0.4
-Architecture: iphoneos-arm
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./debs/com.fantasticstore.animeglare_3.0.4_iphoneos-arm.deb
-Size: 44519196
-MD5sum: 792d552d1d742c7cbb34bedbc31aa1e8
-SHA1: 094b75ac8beb18c4b34027a641f248fddeea6c37
-SHA256: ea870a2e9ab380743c11eaecc6497852fa64727608810209896befc5905892ac
-Homepage: https://animeglare.xyz/
-Section: Applications
-Description:  AnimeGlare is a good app to watch live free anime or just watch any type of anime genre you love to watch for free using AnimeGlare! AnimeGlare is one of the best anime apps to watch anime free without having to use netflix or funamation!
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Name: AnimeGlare
-
 Package: com.fantasticstore.s3music
 Version: 1.0
 Architecture: iphoneos-arm
@@ -684,3 +669,21 @@ Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Section: Tweaks
 Version: 0.1.4
 Installed-Size: 244
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.8-beta.deb
+Size: 5038160 
+MD5sum: 1d0b456ef31906ed1080dd2844dbedef
+SHA1: 21599dc3e104c2bce472e708faf6fd245c0c44d2
+SHA256: 6304c65c41457c76cf48cd5c251854d33d333caead44ec140d016ddaee3a884c
+Name: PostBox
+Version: 0.8
+Architecture: iphoneos-arm
+Description: News, package lists, and repo lists, all community centered.
+Icon: https://postbox.news/depicts/app/icon.png
+Homepage: https://postbox.news
+Depiction: https://postbox.news/depicts/app
+SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
+Section: Apps
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
