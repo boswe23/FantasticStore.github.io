@@ -752,3 +752,22 @@ Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Tag: purpose::extension
 SomeOtherEntryToControl: True
 
+Package: com.fantasticstore.youtubedislikesreturn
+Filename: ./com.fantasticstore.youtubedislikesreturn_1.6.7_iphoneos-arm.deb
+Size: 19654 
+MD5sum: 91bd0952501e08000a5da7430d204741
+SHA1: 3914d3e5adcee2bab0fa60ea2e59650ceda81afe
+SHA256: 169fe959d30b91e7757e3e83f227fd0f27ad866d625b83f49407cffdc2e2cdb9
+Version: 1.6.7
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Installed-Size: 119
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On YouTube and works!
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+ 
