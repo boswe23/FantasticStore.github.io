@@ -705,3 +705,50 @@ SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
 Section: Apps
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./com.fantasticstore.libsandy_1.0.2_iphoneos-arm.deb
+Size: 51358 
+MD5sum: 2e6d3a22cccf9568a7e26510dfda1034
+SHA1: 696148240fc7b86cfbddb77a256ae22bc156b751
+SHA256: 6a926bb1fef7397c096feee476978fdbff173d1571df3947347213fbee74dc7f
+Name: libSandy
+Package: com.fantasticstore.libsandy
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Section: System
+Installed-Size: 576
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Securely extend the sandbox of system processes and user applications!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Homepage: https://github.com/boswe23/FantasticStore.github.io
+Sponsor: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+dev: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Tag: purpose::extension, role::developer
+ 
+Architecture: iphoneos-arm
+Filename: ./com.fantasticstore.crane_1.1.2-5_iphoneos-arm.deb
+Size: 436974 
+MD5sum: f4e7bd66e0489ee9dc9062567890bb98
+SHA1: bac1983ab31927fee4fdb0adac43ad2248365324
+SHA256: 7ebff6ab282b4077c1c54fbd6f10b110040f3ee99c6e9fddd440a2807afd9372
+Package: com.fantasticstore.crane
+Name: Crane
+Version: 1.1.2-5
+Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
+SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
+ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
+Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
+Description: Multiple containers for your applications!
+Homepage: https://https://github.com/boswe23/FantasticStore.github.io
+Section: Tweaks
+Depends: firmware (>=11.0), firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Tags: compatible_min::ios11.0, compatible_max::ios14.5
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Tag: purpose::extension
+SomeOtherEntryToControl: True
+
