@@ -706,43 +706,22 @@ Section: Apps
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Filename: ./com.fantasticstore.libsandy_1.0.2_iphoneos-arm.deb
-Size: 51358 
-MD5sum: 2e6d3a22cccf9568a7e26510dfda1034
-SHA1: 696148240fc7b86cfbddb77a256ae22bc156b751
-SHA256: 6a926bb1fef7397c096feee476978fdbff173d1571df3947347213fbee74dc7f
-Name: libSandy
-Package: com.fantasticstore.libsandy
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Section: System
-Installed-Size: 576
-Version: 1.0.2
 Architecture: iphoneos-arm
-Description: Securely extend the sandbox of system processes and user applications!
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Homepage: https://github.com/boswe23/FantasticStore.github.io
-Sponsor: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-dev: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Tag: purpose::extension, role::developer
- 
-Architecture: iphoneos-arm
-Filename: ./com.fantasticstore.crane_1.1.2-5_iphoneos-arm.deb
-Size: 436974 
-MD5sum: f4e7bd66e0489ee9dc9062567890bb98
-SHA1: bac1983ab31927fee4fdb0adac43ad2248365324
-SHA256: 7ebff6ab282b4077c1c54fbd6f10b110040f3ee99c6e9fddd440a2807afd9372
-Package: com.fantasticstore.crane
+Package: repo.dpkghub.crane
+Filename: ./repo.dpkghub.crane_1.1.2-5_iphoneos-arm.deb
+Size: 436954
+MD5sum: 322091f853decffe6675e8a8a3d4bb52
+SHA1: fbdd45516b66bc4f62c5b141081b5e67895b9e90
+SHA256: 45511de3562b922c6a7eefb8430897b4a01f1ec67dccb032bb865ba45c6740c3
 Name: Crane
 Version: 1.1.2-5
 Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
 SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
+ModernDepiction: https://repo.dpkghub.com/depiction/native
+repo.dpkghub.crane.json
 Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
 Description: Multiple containers for your applications!
-Homepage: https://https://github.com/boswe23/FantasticStore.github.io
+Homepage: https://repo.dpkghub.com
 Section: Tweaks
 Depends: firmware (>=11.0), firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
@@ -752,12 +731,34 @@ Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Tag: purpose::extension
 SomeOtherEntryToControl: True
 
-Package: com.fantasticstore.youtubedislikesreturn
-Filename: ./com.fantasticstore.youtubedislikesreturn_1.6.7_iphoneos-arm.deb
-Size: 19654 
-MD5sum: 91bd0952501e08000a5da7430d204741
-SHA1: 3914d3e5adcee2bab0fa60ea2e59650ceda81afe
-SHA256: 169fe959d30b91e7757e3e83f227fd0f27ad866d625b83f49407cffdc2e2cdb9
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Filename: ./com.opa334.libsandy_1.0.2_iphoneos-arm.deb
+Size: 24862 
+MD5sum: e4412c3986af28cc9ba00b51ed00567d
+SHA1: fde6f52709caaefa9085f9895972a9dc1b817db5
+SHA256: 45443f190ed59602f66a5d4d40b2a08753b12139204901c28933bf4cf524e5c7
+Name: libSandy
+Package: com.opa334.libsandy
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Section: System
+Installed-Size: 576
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Securely extend the sandbox of system processes and user applications!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension, role::developer
+
+Package: weeb.lillie.youtubedislikesreturn
+Filename: ./weeb.lillie.youtubedislikesreturn_1.6.7_iphoneos-arm.deb
+Size: 15820 
+MD5sum: beb8287b61edba567995407e2f2976ef
+SHA1: c36ead94d791270709a37c9ab592bac38e372dd2
+SHA256: bacf89b47354b3b8e9d5fa4ddb6a756ad7e7afec0093e7ceeae97810a67dff71
 Version: 1.6.7
 Architecture: iphoneos-arm
 Section: Tweaks
@@ -771,3 +772,6 @@ Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
 Tag: compatible_min::ios11.0
  
+
+ 
+
