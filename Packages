@@ -706,30 +706,6 @@ Section: Apps
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 
-Architecture: iphoneos-arm
-Filename: ./repo.dpkghub.crane_1.1.2-5_iphoneos-arm.deb
-Size: 436954 
-MD5sum: 322091f853decffe6675e8a8a3d4bb52
-SHA1: fbdd45516b66bc4f62c5b141081b5e67895b9e90
-SHA256: 45511de3562b922c6a7eefb8430897b4a01f1ec67dccb032bb865ba45c6740c3
-Package: repo.dpkghub.crane
-Name: Crane
-Version: 1.1.2-5
-Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
-SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
-Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
-Description: Multiple containers for your applications!
-Homepage: https://repo.dpkghub.com
-Section: Tweaks
-Depends: firmware (>=11.0), firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Tags: compatible_min::ios11.0, compatible_max::ios14.5
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
-Tag: purpose::extension
-SomeOtherEntryToControl: True
-
 Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
 Filename: ./com.opa334.libsandy_1.0.2_iphoneos-arm.deb
@@ -770,3 +746,44 @@ Description: Bring Back Dislikes On YouTube and works!
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
 Tag: compatible_min::ios11.0
+
+Package: weeb.lillie.youtubedislikesreturn
+Filename: ./weeb.lillie.youtubedislikesreturn_1.6.8_iphoneos-arm.deb
+Size: 15724 
+MD5sum: 423c2cc3bde9812a5731f5b8f7c50de3
+SHA1: c8dd5637dd1c0cb3ca1ba49992ded6642ea78052
+SHA256: e3a2459ca1a0f940776a493e8e555f068d6738e378295525cd669a11ccf703c4
+Version: 1.6.8
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Installed-Size: 119
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On YouTube!
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+ 
+Package: net.kenhtao.crane
+Filename: ./net.kenhtao.crane_1.3_iphoneos-arm.deb
+Size: 1242108 
+MD5sum: fe818ca4131341c95886823e1c0f67c7
+SHA1: bfbc7e340aabfdd859b435379e7915526c43ebcf
+SHA256: aec4755ab9ac850f5a16bb31b64071c09fe5fc5d6ebaf55fe1e05bb2d955dea9
+Version: 1.3
+Section: Tweaks
+Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Homepage: https://havoc.app/depiction/cranelite
+Description: Manage app containers and much more!
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0), com.opa334.libsandy
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Architecture: iphoneos-arm
+Installed-Size: 3716
+Name: Crane VN
+Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Sileodepiction: http://kenhtao.net/sileo-depiction/net.kenhtao.crane
+Depiction: https://repo.kenhtao.net/view/8740
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
